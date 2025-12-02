@@ -1,0 +1,5 @@
+cover
+conceal
+overlay
+coat
+blanket

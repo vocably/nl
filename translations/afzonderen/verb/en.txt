@@ -1,0 +1,4 @@
+isolate
+seclude
+segregate
+separate

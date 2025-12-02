@@ -1,0 +1,4 @@
+discover
+uncover
+detect
+reveal

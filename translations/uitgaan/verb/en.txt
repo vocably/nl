@@ -1,0 +1,5 @@
+go out
+leave
+exit
+go off
+date

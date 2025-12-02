@@ -1,0 +1,4 @@
+assume
+presume
+suppose
+expect

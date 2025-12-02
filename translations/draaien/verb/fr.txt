@@ -1,0 +1,4 @@
+tourner
+virer
+pivoter
+faire tourner

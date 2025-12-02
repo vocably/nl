@@ -1,0 +1,4 @@
+mat
+rug
+carpet
+pad

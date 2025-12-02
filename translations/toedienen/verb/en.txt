@@ -1,0 +1,3 @@
+administer
+give
+apply

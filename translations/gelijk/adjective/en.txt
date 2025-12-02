@@ -1,0 +1,5 @@
+equal
+same
+even
+level
+identical

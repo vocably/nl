@@ -1,0 +1,5 @@
+speak
+speaks
+speaking
+spoke
+spoken

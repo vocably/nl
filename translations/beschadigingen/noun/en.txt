@@ -1,0 +1,4 @@
+damages
+injuries
+impairments
+defects

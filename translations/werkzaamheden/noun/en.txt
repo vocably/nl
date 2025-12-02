@@ -1,0 +1,5 @@
+activities
+operations
+tasks
+works
+duties

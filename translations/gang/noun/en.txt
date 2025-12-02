@@ -1,0 +1,6 @@
+hallway
+corridor
+passage
+course
+aisle
+track

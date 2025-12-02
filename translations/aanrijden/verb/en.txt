@@ -1,0 +1,4 @@
+hit
+collide
+run over
+drive into

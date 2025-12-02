@@ -1,0 +1,4 @@
+counter
+oppose
+combat
+resist

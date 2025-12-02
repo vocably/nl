@@ -1,0 +1,4 @@
+combat
+fight
+counter
+oppose

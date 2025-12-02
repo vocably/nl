@@ -1,0 +1,4 @@
+turn
+twist
+change
+shift

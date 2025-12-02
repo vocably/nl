@@ -1,0 +1,5 @@
+go off
+descend
+decrease
+go down
+depreciate
