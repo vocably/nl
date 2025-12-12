@@ -1,0 +1,10 @@
+overview
+summary
+survey
+review
+report
+list
+table
+grasp
+comprehension
+understanding

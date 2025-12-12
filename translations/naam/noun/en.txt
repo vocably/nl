@@ -1,0 +1,5 @@
+name
+noun
+reputation
+fame
+renown

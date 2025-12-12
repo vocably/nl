@@ -1,0 +1,7 @@
+record
+include
+take
+absorb
+withdraw
+pick up
+admit

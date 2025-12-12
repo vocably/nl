@@ -1,0 +1,7 @@
+country
+land
+soil
+earth's surface
+nation
+state
+ground

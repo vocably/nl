@@ -1,0 +1,7 @@
+gamble
+bet
+speculate
+guess
+wager
+conjecture
+hazard

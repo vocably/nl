@@ -1,0 +1,14 @@
+road
+track
+lane
+route
+way
+path
+course
+journey
+trip
+method
+means
+process
+development
+evolution

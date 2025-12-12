@@ -1,0 +1,4 @@
+connection voltage
+supply voltage
+operating voltage
+rated voltage

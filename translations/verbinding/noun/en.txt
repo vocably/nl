@@ -1,0 +1,5 @@
+connection
+link
+bond
+junction
+tie

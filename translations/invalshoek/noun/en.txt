@@ -1,0 +1,4 @@
+perspective
+angle
+point of view
+approach

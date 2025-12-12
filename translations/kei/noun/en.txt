@@ -1,0 +1,7 @@
+boulder
+rock
+stone
+expert
+master
+ace
+specialist

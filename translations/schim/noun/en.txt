@@ -1,0 +1,10 @@
+shadow
+ghost
+phantom
+specter
+apparition
+glimmer
+trace
+reflection
+memory
+shade

@@ -1,0 +1,10 @@
+connection
+junction
+interchange
+transfer
+link
+fitting
+adapter
+terminal
+port
+access

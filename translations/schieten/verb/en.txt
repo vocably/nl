@@ -1,0 +1,8 @@
+shoot
+fire
+dart
+bolt
+sprout
+bud
+measure
+gauge
