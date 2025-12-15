@@ -1,0 +1,4 @@
+notebook
+notepad
+scribble pad
+scratchpad

@@ -1,0 +1,7 @@
+notebook
+book
+pad
+writing
+script
+handwriting
+font

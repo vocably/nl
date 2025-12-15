@@ -1,0 +1,4 @@
+notebook
+booklet
+pad
+jotter

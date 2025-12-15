@@ -1,0 +1,4 @@
+refuse
+decline
+deny
+reject
