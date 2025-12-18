@@ -1,0 +1,6 @@
+ability
+power
+capacity
+wealth
+assets
+means
