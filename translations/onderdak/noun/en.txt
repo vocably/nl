@@ -1,0 +1,5 @@
+shelter
+housing
+lodging
+refuge
+haven

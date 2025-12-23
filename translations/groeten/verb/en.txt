@@ -1,0 +1,4 @@
+greet
+salute
+send regards
+send greetings

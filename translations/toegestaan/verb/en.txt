@@ -1,0 +1,4 @@
+allowed
+permitted
+authorized
+granted

@@ -1,0 +1,10 @@
+area
+region
+field
+territory
+zone
+domain
+sector
+district
+tract
+expanse

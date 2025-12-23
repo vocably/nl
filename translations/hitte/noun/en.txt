@@ -1,0 +1,4 @@
+heat
+hotness
+heat wave
+hot spell

@@ -1,0 +1,7 @@
+nod
+gesture
+hint
+tip
+suggestion
+cue
+sign

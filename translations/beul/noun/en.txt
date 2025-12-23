@@ -1,0 +1,5 @@
+executioner
+torturer
+hangman
+tormentor
+sadist

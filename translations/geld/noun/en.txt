@@ -1,0 +1,6 @@
+money
+currency
+legal tender
+coin
+bill
+medium of exchange

@@ -1,0 +1,4 @@
+alley
+lane
+narrow street
+pathway

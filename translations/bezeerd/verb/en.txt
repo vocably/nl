@@ -1,0 +1,4 @@
+injured
+hurt
+wounded
+damaged

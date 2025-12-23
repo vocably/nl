@@ -1,0 +1,9 @@
+emperor
+king
+ruler
+magnate
+tycoon
+mogul
+master
+expert
+virtuoso

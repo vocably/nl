@@ -1,0 +1,4 @@
+slope
+ramp
+incline
+gradient

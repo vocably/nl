@@ -1,0 +1,9 @@
+speed
+pace
+navigation
+shipping
+voyage
+travel
+movement
+rate
+velocity

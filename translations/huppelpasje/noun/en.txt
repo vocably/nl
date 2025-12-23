@@ -1,0 +1,5 @@
+skip
+hop
+bouncy step
+skipping step
+light step

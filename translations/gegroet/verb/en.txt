@@ -1,0 +1,4 @@
+greeted
+hailed
+saluted
+welcomed

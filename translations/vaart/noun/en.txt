@@ -1,0 +1,5 @@
+cruise
+boat trip
+voyage
+speed
+pace

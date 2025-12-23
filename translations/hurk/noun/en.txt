@@ -1,0 +1,5 @@
+squat
+crouch
+kneel
+genuflection
+curtsy

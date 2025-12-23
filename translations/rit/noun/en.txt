@@ -1,0 +1,4 @@
+ride
+trip
+journey
+excursion

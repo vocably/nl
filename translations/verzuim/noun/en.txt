@@ -1,0 +1,5 @@
+absence
+non-attendance
+truancy
+failure
+neglect

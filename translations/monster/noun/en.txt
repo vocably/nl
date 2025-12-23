@@ -1,0 +1,6 @@
+monster
+creature
+giant
+beast
+fiend
+horror

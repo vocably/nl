@@ -1,0 +1,8 @@
+sign
+token
+symbol
+mark
+indication
+signal
+message
+declaration

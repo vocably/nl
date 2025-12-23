@@ -1,0 +1,5 @@
+apply
+be in force
+be valid
+be considered valid
+hold true

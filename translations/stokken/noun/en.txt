@@ -1,0 +1,4 @@
+sticks
+poles
+rods
+shafts

@@ -1,0 +1,5 @@
+decision
+resolution
+conclusion
+end
+outcome

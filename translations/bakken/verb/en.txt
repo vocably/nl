@@ -1,0 +1,5 @@
+to bake
+to fry
+to roast
+to pan-fry
+to deep-fry
