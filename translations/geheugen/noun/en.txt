@@ -1,0 +1,5 @@
+memory
+storage
+retention
+recall
+storage capacity

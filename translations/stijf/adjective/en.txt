@@ -1,0 +1,7 @@
+stiff
+rigid
+inflexible
+formal
+strict
+austere
+unbending
