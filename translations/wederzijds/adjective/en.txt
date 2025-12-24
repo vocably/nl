@@ -1,0 +1,4 @@
+mutual
+reciprocal
+bilateral
+two-way
