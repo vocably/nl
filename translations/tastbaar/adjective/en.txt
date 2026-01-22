@@ -1,0 +1,6 @@
+tangible
+palpable
+touchable
+concrete
+perceptible
+material

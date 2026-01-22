@@ -1,0 +1,5 @@
+stopped
+discontinued
+canceled
+suspended
+aborted

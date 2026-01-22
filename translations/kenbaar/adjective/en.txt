@@ -1,0 +1,4 @@
+identifiable
+perceptible
+notifiable
+communicable

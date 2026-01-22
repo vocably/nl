@@ -1,0 +1,10 @@
+equipment
+gear
+tackle
+rigging
+scum
+rabble
+riffraff
+supplies
+provisions
+stores

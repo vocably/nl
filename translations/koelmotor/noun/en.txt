@@ -1,0 +1,4 @@
+refrigeration compressor
+refrigeration motor
+cooling engine
+cooling motor

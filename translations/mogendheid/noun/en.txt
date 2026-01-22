@@ -1,0 +1,4 @@
+power
+state
+nation
+country

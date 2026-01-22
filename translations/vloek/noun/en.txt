@@ -1,0 +1,6 @@
+curse
+oath
+spell
+malediction
+hex
+imprecation

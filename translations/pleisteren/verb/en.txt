@@ -1,0 +1,3 @@
+plaster
+put a bandage on
+stop

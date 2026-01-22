@@ -1,0 +1,5 @@
+cabinet
+closet
+cupboard
+wardrobe
+locker

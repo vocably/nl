@@ -1,0 +1,5 @@
+banks
+shores
+riverbanks
+watersides
+embankments

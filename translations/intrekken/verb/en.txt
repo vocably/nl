@@ -1,0 +1,10 @@
+retract
+withdraw
+revoke
+cancel
+take back
+move in
+draw in
+absorb
+soak up
+rescind

@@ -1,0 +1,5 @@
+institution
+establishment
+monastery
+hospital
+orphanage

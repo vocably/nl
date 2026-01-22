@@ -1,0 +1,4 @@
+universe
+cosmos
+creation
+world

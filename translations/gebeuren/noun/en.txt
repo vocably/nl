@@ -1,0 +1,6 @@
+event
+occurrence
+incident
+affair
+hap
+happenstance

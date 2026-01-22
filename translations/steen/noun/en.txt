@@ -1,0 +1,5 @@
+stone
+rock
+boulder
+masonry
+precious stone

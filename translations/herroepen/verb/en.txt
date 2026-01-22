@@ -1,0 +1,10 @@
+revoke
+withdraw
+cancel
+repeal
+rescind
+retract
+annul
+abrogate
+invalidate
+overturn

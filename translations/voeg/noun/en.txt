@@ -1,0 +1,5 @@
+joint
+seam
+juncture
+interface
+groove

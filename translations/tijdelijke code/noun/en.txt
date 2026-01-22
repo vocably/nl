@@ -1,0 +1,4 @@
+temporary code
+one-time code
+ephemeral code
+transient code

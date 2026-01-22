@@ -1,0 +1,10 @@
+scale
+dish
+bowl
+shell
+tray
+plate
+crust
+layer
+table
+tariff

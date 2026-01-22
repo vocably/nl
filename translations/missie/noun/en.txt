@@ -1,0 +1,6 @@
+mission
+goal
+objective
+assignment
+errand
+task

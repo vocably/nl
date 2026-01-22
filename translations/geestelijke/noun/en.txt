@@ -1,0 +1,5 @@
+cleric
+minister
+priest
+chaplain
+ecclesiastic

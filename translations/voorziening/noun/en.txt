@@ -1,0 +1,5 @@
+provision
+facility
+reserve
+amenity
+service

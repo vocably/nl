@@ -1,0 +1,5 @@
+repetition
+rerun
+encore
+recurrence
+iteration

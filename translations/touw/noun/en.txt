@@ -1,0 +1,6 @@
+rope
+cable
+cord
+line
+hawser
+binder

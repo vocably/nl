@@ -1,0 +1,3 @@
+autonomous
+independent
+self-governing

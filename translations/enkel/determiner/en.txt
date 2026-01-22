@@ -1,0 +1,4 @@
+only
+single
+a few
+some

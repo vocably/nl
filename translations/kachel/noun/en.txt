@@ -1,0 +1,3 @@
+stove
+heater
+fireplace

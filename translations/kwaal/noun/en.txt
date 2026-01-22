@@ -1,0 +1,6 @@
+ailment
+complaint
+malady
+illness
+sickness
+disorder

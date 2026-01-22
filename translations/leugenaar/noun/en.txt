@@ -1,0 +1,4 @@
+liar
+fibber
+prevaricator
+falsifier

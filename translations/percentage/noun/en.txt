@@ -1,0 +1,4 @@
+percentage
+proportion
+share
+part

@@ -1,0 +1,5 @@
+temporary
+provisional
+interim
+preliminary
+tentative

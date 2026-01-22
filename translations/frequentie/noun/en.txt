@@ -1,0 +1,4 @@
+frequency
+occurrence
+rate
+incidence

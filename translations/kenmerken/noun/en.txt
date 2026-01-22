@@ -1,0 +1,6 @@
+feature
+characteristic
+trait
+attribute
+distinguishing mark
+hallmark

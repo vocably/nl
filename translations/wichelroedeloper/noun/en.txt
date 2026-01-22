@@ -1,0 +1,3 @@
+dowser
+water-diviner
+diviner
