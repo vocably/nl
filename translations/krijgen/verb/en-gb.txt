@@ -1,0 +1,4 @@
+get
+receive
+obtain
+acquire

@@ -1,0 +1,4 @@
+effort
+stake
+start
+inset

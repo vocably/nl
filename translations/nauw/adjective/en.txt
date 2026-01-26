@@ -1,0 +1,4 @@
+narrow
+tight
+close
+precise
