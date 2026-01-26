@@ -1,4 +1,0 @@
-porta
-ingresso
-portone
-uscita

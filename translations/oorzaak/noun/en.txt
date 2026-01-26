@@ -1,5 +1,0 @@
-cause
-reason
-origin
-source
-ground

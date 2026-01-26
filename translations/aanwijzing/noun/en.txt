@@ -1,4 +1,0 @@
-instruction
-indication
-clue
-hint

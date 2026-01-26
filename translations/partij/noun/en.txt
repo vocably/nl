@@ -1,6 +1,0 @@
-party
-organization
-game
-match
-gathering
-social event

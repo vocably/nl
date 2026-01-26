@@ -1,5 +1,0 @@
-reverse
-turn around
-invert
-flip
-return

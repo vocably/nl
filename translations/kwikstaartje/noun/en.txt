@@ -1,3 +1,0 @@
-wagtail
-pied wagtail
-white wagtail

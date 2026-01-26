@@ -1,4 +1,0 @@
-common
-shared
-joint
-collective

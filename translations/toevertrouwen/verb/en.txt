@@ -1,5 +1,0 @@
-entrust
-confide
-trust
-commit
-consign

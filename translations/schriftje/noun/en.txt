@@ -1,4 +1,0 @@
-notebook
-booklet
-pad
-jotter

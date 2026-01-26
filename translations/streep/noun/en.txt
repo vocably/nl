@@ -1,6 +1,0 @@
-line
-stripe
-stroke
-dash
-mark
-streak

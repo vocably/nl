@@ -1,3 +1,0 @@
-arch bridge
-bowstring bridge
-arched bridge

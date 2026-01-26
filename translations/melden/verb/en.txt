@@ -1,5 +1,0 @@
-report
-notify
-announce
-mention
-declare

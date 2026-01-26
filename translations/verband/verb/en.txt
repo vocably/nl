@@ -1,7 +1,0 @@
-bandage
-dressing
-connection
-relationship
-association
-union
-bond

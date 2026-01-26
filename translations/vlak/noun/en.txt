@@ -1,4 +1,0 @@
-plane
-surface
-face
-level

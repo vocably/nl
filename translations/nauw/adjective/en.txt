@@ -1,4 +1,0 @@
-narrow
-tight
-close
-precise

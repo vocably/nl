@@ -1,4 +1,0 @@
-objection
-complaint
-difficulty
-protest

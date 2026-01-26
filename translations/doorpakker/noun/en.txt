@@ -1,3 +1,0 @@
-go-getter
-doer
-hard worker

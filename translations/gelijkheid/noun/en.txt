@@ -1,4 +1,0 @@
-equality
-sameness
-parity
-equivalence

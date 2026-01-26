@@ -1,4 +1,0 @@
-exclude
-rule out
-preclude
-disqualify

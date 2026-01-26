@@ -1,4 +1,0 @@
-proof
-evidence
-token
-document

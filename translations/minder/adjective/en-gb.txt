@@ -1,4 +1,0 @@
-less
-lower
-inferior
-minor

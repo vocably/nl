@@ -1,5 +1,0 @@
-harness
-rig
-tackle
-equip
-fit out

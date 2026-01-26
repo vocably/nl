@@ -1,5 +1,0 @@
-unchangeable
-invariable
-immutable
-constant
-fixed

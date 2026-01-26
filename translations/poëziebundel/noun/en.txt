@@ -1,5 +1,0 @@
-poetry collection
-anthology of poems
-book of poetry
-poetry volume
-verse collection

@@ -1,4 +1,0 @@
-act
-deed
-action
-fact

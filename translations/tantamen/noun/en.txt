@@ -1,5 +1,0 @@
-attempt
-try
-experiment
-test
-trial

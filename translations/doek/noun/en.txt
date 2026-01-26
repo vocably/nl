@@ -1,4 +1,0 @@
-cloth
-canvas
-towel
-curtain

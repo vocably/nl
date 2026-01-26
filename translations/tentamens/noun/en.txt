@@ -1,4 +1,0 @@
-exams
-tests
-midterms
-assessments

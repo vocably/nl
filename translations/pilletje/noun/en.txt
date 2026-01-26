@@ -1,4 +1,0 @@
-pill
-tablet
-lozenge
-caplet

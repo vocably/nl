@@ -1,5 +1,0 @@
-supervision
-control
-inspection
-audit
-check

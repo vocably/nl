@@ -1,5 +1,0 @@
-record
-capture
-document
-establish
-fix

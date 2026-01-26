@@ -1,7 +1,0 @@
-country
-land
-territory
-area
-region
-countryside
-rural area

@@ -1,5 +1,0 @@
-lights
-lamps
-lighting
-luminaires
-illumination

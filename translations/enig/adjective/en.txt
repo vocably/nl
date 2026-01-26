@@ -1,5 +1,0 @@
-only
-unique
-single
-some
-any

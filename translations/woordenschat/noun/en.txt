@@ -1,4 +1,0 @@
-vocabulary
-lexicon
-word stock
-glossary

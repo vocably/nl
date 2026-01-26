@@ -1,4 +1,0 @@
-car
-wagon
-cart
-carriage

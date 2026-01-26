@@ -1,5 +1,0 @@
-documentation
-records
-files
-papers
-archive

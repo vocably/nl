@@ -1,5 +1,0 @@
-proximity
-nearness
-vicinity
-closeness
-adjacency

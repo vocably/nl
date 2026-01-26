@@ -1,3 +1,0 @@
-heritage
-legacy
-inheritance

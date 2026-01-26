@@ -1,6 +1,0 @@
-swarm
-flock
-cloud
-horde
-throng
-mass

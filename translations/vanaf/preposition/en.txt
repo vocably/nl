@@ -1,3 +1,0 @@
-from
-since
-as of

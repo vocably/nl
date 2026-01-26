@@ -1,5 +1,0 @@
-expire
-lapse
-run out
-pass
-elapse

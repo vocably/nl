@@ -1,5 +1,0 @@
-lighten
-illuminate
-ease
-relieve
-alleviate

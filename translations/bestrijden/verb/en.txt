@@ -1,4 +1,0 @@
-combat
-fight
-counter
-oppose

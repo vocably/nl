@@ -1,4 +1,0 @@
-greeted
-hailed
-saluted
-welcomed

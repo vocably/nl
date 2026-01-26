@@ -1,4 +1,0 @@
-curses
-swearing
-oaths
-blasphemies

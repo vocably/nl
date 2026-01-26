@@ -1,5 +1,0 @@
-setup
-plan
-design
-intent
-framework

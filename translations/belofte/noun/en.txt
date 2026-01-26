@@ -1,8 +1,0 @@
-promise
-pledge
-commitment
-vow
-word
-expectation
-prospect
-potential

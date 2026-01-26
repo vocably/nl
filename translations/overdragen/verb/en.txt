@@ -1,5 +1,0 @@
-transfer
-convey
-transmit
-assign
-deliver

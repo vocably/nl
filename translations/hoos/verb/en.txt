@@ -1,5 +1,0 @@
-scoop
-ladle
-bail
-scoop out
-ladle out

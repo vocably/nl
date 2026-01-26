@@ -1,4 +1,0 @@
-pipe
-tube
-duct
-channel

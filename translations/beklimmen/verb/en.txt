@@ -1,4 +1,0 @@
-climb
-ascend
-mount
-scale

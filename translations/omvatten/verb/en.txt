@@ -1,5 +1,0 @@
-include
-comprise
-encompass
-cover
-embrace

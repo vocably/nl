@@ -1,4 +1,0 @@
-dull
-mat
-flat
-dim

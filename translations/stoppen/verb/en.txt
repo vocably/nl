@@ -1,4 +1,0 @@
-stop
-stopping
-stopped
-to stop

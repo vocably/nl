@@ -1,5 +1,0 @@
-joints
-seams
-grooves
-pointing
-grouting

@@ -1,4 +1,0 @@
-turn
-chance
-round
-go

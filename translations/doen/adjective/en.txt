@@ -1,4 +1,0 @@
-do
-make
-perform
-execute

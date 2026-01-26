@@ -1,5 +1,0 @@
-file
-dossier
-record
-document
-case file

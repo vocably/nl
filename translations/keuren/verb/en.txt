@@ -1,8 +1,0 @@
-to inspect
-to approve
-to reject
-to test
-to check
-to vet
-to pass
-to disapprove

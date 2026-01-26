@@ -1,5 +1,0 @@
-swarm
-flock
-throng
-horde
-multitude

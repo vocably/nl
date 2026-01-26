@@ -1,4 +1,0 @@
-freeze
-congeal
-solidify
-harden

@@ -1,4 +1,0 @@
-opposite
-reverse
-contrary
-inverse

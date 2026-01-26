@@ -1,4 +1,0 @@
-assemble
-compile
-compose
-construct

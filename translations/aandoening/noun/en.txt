@@ -1,4 +1,0 @@
-condition
-disorder
-ailment
-disease

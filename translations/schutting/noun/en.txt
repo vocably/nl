@@ -1,5 +1,0 @@
-fence
-fencing
-screen
-partition
-enclosure

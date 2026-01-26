@@ -1,4 +1,0 @@
-assume
-presume
-suppose
-expect

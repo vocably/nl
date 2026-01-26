@@ -1,4 +1,0 @@
-thaws
-melts
-is thawing
-is melting

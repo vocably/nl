@@ -1,4 +1,0 @@
-exchange
-replace
-swap
-interchange

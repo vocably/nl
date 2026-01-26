@@ -1,4 +1,0 @@
-discover
-uncover
-detect
-reveal

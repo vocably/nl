@@ -1,5 +1,0 @@
-strip
-stretch
-tract
-slip
-band

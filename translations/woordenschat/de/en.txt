@@ -1,5 +1,0 @@
-vocabulary
-lexicon
-word stock
-glossary
-word-hoard

@@ -1,5 +1,0 @@
-textbook
-coursebook
-manual
-handbook
-primer

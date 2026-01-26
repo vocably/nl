@@ -1,5 +1,0 @@
-light
-set off
-contrast
-launch
-ignite

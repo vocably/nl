@@ -1,5 +1,0 @@
-equip
-prepare
-rest
-provide
-relax

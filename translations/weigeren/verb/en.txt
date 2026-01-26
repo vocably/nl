@@ -1,4 +1,0 @@
-refuse
-decline
-deny
-reject

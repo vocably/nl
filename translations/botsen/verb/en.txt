@@ -1,4 +1,0 @@
-crash
-collide
-bump
-clash

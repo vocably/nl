@@ -1,5 +1,0 @@
-infections
-contaminations
-cases
-outbreaks
-transmissions

@@ -1,4 +1,0 @@
-announce
-proclaim
-declare
-herald

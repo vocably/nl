@@ -1,5 +1,0 @@
-rate
-fee
-charge
-tariff
-price

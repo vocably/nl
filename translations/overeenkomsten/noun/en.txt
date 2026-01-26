@@ -1,5 +1,0 @@
-agreements
-contracts
-deals
-stipulations
-covenants

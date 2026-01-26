@@ -1,4 +1,0 @@
-placemat
-coaster
-mat
-pad

@@ -1,5 +1,0 @@
-strips
-lanes
-sections
-stretches
-tracts

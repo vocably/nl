@@ -1,7 +1,0 @@
-track
-trail
-scent
-spoor
-quest
-pursuit
-search

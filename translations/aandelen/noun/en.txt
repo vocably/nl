@@ -1,5 +1,0 @@
-stock
-share
-interest
-stake
-equity

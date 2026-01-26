@@ -1,7 +1,0 @@
-swarm
-flock
-teem
-mill
-yearn
-crave
-long

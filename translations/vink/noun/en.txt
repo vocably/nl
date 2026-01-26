@@ -1,4 +1,0 @@
-finch
-chaffinch
-marker
-checker

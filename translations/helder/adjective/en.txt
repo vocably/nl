@@ -1,8 +1,0 @@
-clear
-bright
-light
-plain
-obvious
-lucid
-intelligible
-distinct

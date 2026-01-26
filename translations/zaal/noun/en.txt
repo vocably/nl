@@ -1,6 +1,0 @@
-hall
-room
-auditorium
-venue
-arena
-theater

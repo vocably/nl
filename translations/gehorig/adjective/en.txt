@@ -1,3 +1,0 @@
-noisy
-sound-permeable
-echoey

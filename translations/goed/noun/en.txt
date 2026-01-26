@@ -1,5 +1,0 @@
-asset
-property
-possession
-belonging
-good

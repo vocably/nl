@@ -1,4 +1,0 @@
-file
-agreement
-inventory
-armistice

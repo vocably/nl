@@ -1,4 +1,0 @@
-backpack
-knapsack
-rucksack
-pack

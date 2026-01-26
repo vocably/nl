@@ -1,4 +1,0 @@
-exchange
-interchange
-swap
-trade

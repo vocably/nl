@@ -1,5 +1,0 @@
-end
-extremity
-tip
-terminal point
-fag end

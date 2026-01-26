@@ -1,5 +1,0 @@
-archive
-collection
-repository
-registry
-public records office

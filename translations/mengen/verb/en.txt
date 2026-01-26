@@ -1,5 +1,0 @@
-mix
-blend
-stir
-shake
-combine

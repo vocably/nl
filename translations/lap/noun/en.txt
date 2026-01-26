@@ -1,5 +1,0 @@
-cloth
-rag
-patch
-scrap
-flap

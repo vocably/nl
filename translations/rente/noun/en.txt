@@ -1,3 +1,0 @@
-interest
-return
-yield

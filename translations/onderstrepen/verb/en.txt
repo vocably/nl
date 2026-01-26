@@ -1,4 +1,0 @@
-underline
-emphasize
-stress
-highlight

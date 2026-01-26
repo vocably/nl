@@ -1,4 +1,0 @@
-head
-crop
-cabbage
-lettuce

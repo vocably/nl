@@ -1,5 +1,0 @@
-roads
-ways
-routes
-paths
-tracks

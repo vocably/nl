@@ -1,5 +1,0 @@
-enemy
-opponent
-adversary
-foe
-antagonist

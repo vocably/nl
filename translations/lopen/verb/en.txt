@@ -1,4 +1,0 @@
-walk
-run
-go
-tread

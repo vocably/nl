@@ -1,5 +1,0 @@
-light
-illumination
-brightness
-radiance
-daylight

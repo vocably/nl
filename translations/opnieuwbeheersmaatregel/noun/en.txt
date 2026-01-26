@@ -1,3 +1,0 @@
-recontrol measure
-recovery measure
-remediation measure

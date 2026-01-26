@@ -1,5 +1,0 @@
-branch
-limb
-arm
-division
-section

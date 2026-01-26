@@ -1,5 +1,0 @@
-busy
-occupied
-engaged
-active
-unavailable

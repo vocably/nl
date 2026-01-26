@@ -1,6 +1,0 @@
-bale
-sack
-pack
-package
-bundle
-lot

@@ -1,7 +1,0 @@
-washes
-cleans
-grows
-increases
-waxes
-shrinks
-decreases

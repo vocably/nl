@@ -1,6 +1,0 @@
-order
-state
-group
-sequence
-arrangement
-ranking

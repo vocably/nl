@@ -1,5 +1,0 @@
-preference
-choice
-priority
-predilection
-option

@@ -1,7 +1,0 @@
-bank
-shore
-coast
-riverside
-lakeside
-seaside
-waterfront

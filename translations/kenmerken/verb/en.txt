@@ -1,5 +1,0 @@
-characterize
-feature
-mark
-distinguish
-typify

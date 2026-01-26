@@ -1,4 +1,0 @@
-isolate
-seclude
-segregate
-separate

@@ -1,4 +1,0 @@
-accessible
-reachable
-available
-attainable

@@ -1,4 +1,0 @@
-pickle
-preserve
-can
-defeat

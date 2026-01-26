@@ -1,4 +1,0 @@
-distraction
-derivation
-deduction
-inference

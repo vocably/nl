@@ -1,6 +1,0 @@
-clerk
-employee
-official
-assistant
-attendant
-servant

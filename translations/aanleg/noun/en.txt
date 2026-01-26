@@ -1,5 +1,0 @@
-aptitude
-construction
-facility
-disposition
-inclination

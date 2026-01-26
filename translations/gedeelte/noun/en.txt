@@ -1,5 +1,0 @@
-part
-section
-portion
-chapter
-segment

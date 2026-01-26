@@ -1,4 +1,0 @@
-allowed
-permitted
-authorized
-granted

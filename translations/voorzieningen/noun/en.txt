@@ -1,6 +1,0 @@
-amenities
-facilities
-provisions
-services
-utilities
-infrastructure

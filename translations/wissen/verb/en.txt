@@ -1,4 +1,0 @@
-erase
-delete
-wipe
-forget

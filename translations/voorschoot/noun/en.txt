@@ -1,4 +1,0 @@
-apron
-bow
-prow
-stem

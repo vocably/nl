@@ -1,7 +1,0 @@
-role
-function
-part
-character
-job
-task
-post
