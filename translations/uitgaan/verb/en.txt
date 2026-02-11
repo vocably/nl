@@ -1,0 +1,4 @@
+go out
+go out with
+assume
+end

@@ -1,0 +1,3 @@
+binding
+mandatory
+restrictive

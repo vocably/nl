@@ -1,0 +1,4 @@
+recover
+restore
+repair
+regain

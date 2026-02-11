@@ -1,0 +1,3 @@
+locations
+places
+areas

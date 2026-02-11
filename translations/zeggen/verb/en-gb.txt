@@ -1,0 +1,4 @@
+say
+tell
+state
+mean

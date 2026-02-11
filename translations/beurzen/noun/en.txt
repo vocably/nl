@@ -1,0 +1,4 @@
+purses
+stock exchanges
+grants
+fairs

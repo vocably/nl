@@ -1,0 +1,2 @@
+exclude oneself
+rule oneself out
