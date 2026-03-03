@@ -1,0 +1,5 @@
+grab
+pack
+catch
+understand
+take

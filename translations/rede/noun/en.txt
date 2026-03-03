@@ -1,0 +1,4 @@
+speech
+address
+discourse
+oration

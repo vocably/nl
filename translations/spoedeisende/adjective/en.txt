@@ -1,0 +1,3 @@
+urgent
+emergency
+critical

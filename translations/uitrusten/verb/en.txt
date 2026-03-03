@@ -1,0 +1,3 @@
+rest
+equip
+be equipped with

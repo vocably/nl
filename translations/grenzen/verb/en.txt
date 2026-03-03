@@ -1,0 +1,3 @@
+border
+be contiguous with
+be limited

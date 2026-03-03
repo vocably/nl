@@ -1,0 +1,2 @@
+local newspaper
+community newspaper

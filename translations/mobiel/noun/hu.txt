@@ -1,0 +1,3 @@
+mobil
+mozgó tárgy
+mobiltelefon
