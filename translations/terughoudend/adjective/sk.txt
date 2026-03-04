@@ -1,0 +1,1 @@
+["zdržanlivý","rezervovaný","rozvážny"]

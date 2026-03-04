@@ -1,0 +1,1 @@
+["disposisjon","anlegg","tilbøyelighet","sammensetning"]

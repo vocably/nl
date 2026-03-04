@@ -1,2 +1,1 @@
-outcome
-solution
+["outcome","result","solution"]
