@@ -1,0 +1,5 @@
+skip
+miss
+omit
+jump
+palpitate

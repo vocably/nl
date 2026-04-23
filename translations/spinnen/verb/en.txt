@@ -1,0 +1,4 @@
+spin
+purr
+whirl
+rotate

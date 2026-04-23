@@ -1,0 +1,4 @@
+push
+hit
+bump
+kick

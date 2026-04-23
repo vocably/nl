@@ -1,0 +1,5 @@
+van
+létezik
+megvan
+tartózkodik
+elmegy

@@ -1,0 +1,2 @@
+settlement type
+type of settlement

@@ -1,0 +1,3 @@
+flash
+speed
+take a picture

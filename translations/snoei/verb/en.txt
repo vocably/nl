@@ -1,0 +1,6 @@
+prune
+trim
+cut
+lop
+clip
+snip

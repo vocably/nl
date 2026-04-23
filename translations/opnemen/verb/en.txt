@@ -1,0 +1,5 @@
+record
+admit
+withdraw
+absorb
+take on

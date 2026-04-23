@@ -1,0 +1,2 @@
+check-in kiosk
+registration terminal

@@ -1,0 +1,3 @@
+faltered
+malfunctioned
+failed

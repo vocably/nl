@@ -1,0 +1,2 @@
+on weekdays
+during the week

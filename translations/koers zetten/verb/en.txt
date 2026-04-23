@@ -1,0 +1,3 @@
+head for
+set course
+make for
