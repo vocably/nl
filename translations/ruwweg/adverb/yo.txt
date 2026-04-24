@@ -1,1 +1,3 @@
-["ní àwọn ọ̀nà tí kò dára","ní ìwọ̀nba","ní àwọn ọ̀nà tí kò mọ́"]
+ní àwọn ọ̀nà tí kò dára
+ní ìwọ̀nba
+ní àwọn ọ̀nà tí kò mọ́

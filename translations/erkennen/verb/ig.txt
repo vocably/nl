@@ -1,1 +1,3 @@
-["kweta","mata","ghọta"]
+kweta
+mata
+ghọta

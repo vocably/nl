@@ -1,1 +1,2 @@
-["İnadkar","Özündənrazı"]
+İnadkar
+Özündənrazı

@@ -1,1 +1,2 @@
-["batez ere","nagusiki"]
+batez ere
+nagusiki

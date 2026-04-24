@@ -1,1 +1,2 @@
-["konsegwenza","reazzjoni"]
+konsegwenza
+reazzjoni

@@ -1,1 +1,3 @@
-["Schwell","Hürd","Grenzwäert"]
+Schwell
+Hürd
+Grenzwäert

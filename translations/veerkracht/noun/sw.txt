@@ -1,1 +1,2 @@
-["unyumbufu","ustahimilivu"]
+unyumbufu
+ustahimilivu

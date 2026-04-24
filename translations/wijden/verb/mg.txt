@@ -1,1 +1,2 @@
-["manokana","mankato"]
+manokana
+mankato

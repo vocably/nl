@@ -1,1 +1,3 @@
-["prag","ovira","mejna vrednost"]
+prag
+ovira
+mejna vrednost

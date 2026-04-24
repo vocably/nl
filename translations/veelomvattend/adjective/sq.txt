@@ -1,1 +1,3 @@
-["gjithëpërfshirës","i gjerë","themelor"]
+gjithëpërfshirës
+i gjerë
+themelor

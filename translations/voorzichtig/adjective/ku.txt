@@ -1,1 +1,2 @@
-["hûşyar","bi dîqet"]
+hûşyar
+bi dîqet

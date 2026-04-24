@@ -1,1 +1,3 @@
-["terskel","hindring","grenseverdi"]
+terskel
+hindring
+grenseverdi

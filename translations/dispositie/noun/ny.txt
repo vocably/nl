@@ -1,1 +1,4 @@
-["makonzedwe","kasamalidwe","chikhalidwe","kapangidwe"]
+makonzedwe
+kasamalidwe
+chikhalidwe
+kapangidwe

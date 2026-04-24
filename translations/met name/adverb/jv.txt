@@ -1,1 +1,2 @@
-["mliginipun","utaminipun"]
+mliginipun
+utaminipun

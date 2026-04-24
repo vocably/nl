@@ -1,1 +1,3 @@
-["overveje","betænke","afveje"]
+overveje
+betænke
+afveje

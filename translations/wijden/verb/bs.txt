@@ -1,1 +1,2 @@
-["posvetiti","osve\b0tati"]
+posvetiti
+osve0tati

@@ -1,1 +1,3 @@
-["machnamh a dhéanamh ar","breithniú a dhéanamh ar","meáchan a chur ar"]
+machnamh a dhéanamh ar
+breithniú a dhéanamh ar
+meáchan a chur ar

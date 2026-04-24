@@ -1,1 +1,2 @@
-["masarap","kasiya-siya"]
+masarap
+kasiya-siya

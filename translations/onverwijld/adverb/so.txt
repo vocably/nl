@@ -1,1 +1,3 @@
-["Degdeg","Kol dambe","Haddaba"]
+Degdeg
+Kol dambe
+Haddaba

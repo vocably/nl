@@ -1,1 +1,3 @@
-["Resultat","Léisung","Auswäertung"]
+Resultat
+Léisung
+Auswäertung

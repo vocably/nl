@@ -1,1 +1,3 @@
-["Schwelle","Hürde","Grenzwert"]
+Schwelle
+Hürde
+Grenzwert

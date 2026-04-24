@@ -1,1 +1,2 @@
-["Auswirkung","Niederschlag"]
+Auswirkung
+Niederschlag

@@ -1,1 +1,2 @@
-["pakankamai","užtektinai"]
+pakankamai
+užtektinai

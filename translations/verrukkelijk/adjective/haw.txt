@@ -1,1 +1,2 @@
-["ʻono","nani"]
+ʻono
+nani

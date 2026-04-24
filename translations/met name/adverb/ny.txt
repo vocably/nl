@@ -1,1 +1,2 @@
-["makamaka","koposa"]
+makamaka
+koposa

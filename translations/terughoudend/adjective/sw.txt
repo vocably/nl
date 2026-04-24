@@ -1,1 +1,3 @@
-["mwenye kiasi","asiye na papara","asiye na haraka"]
+mwenye kiasi
+asiye na papara
+asiye na haraka

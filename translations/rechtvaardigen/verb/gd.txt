@@ -1,1 +1,2 @@
-["dearbhaich","fìreanachadh"]
+dearbhaich
+fìreanachadh

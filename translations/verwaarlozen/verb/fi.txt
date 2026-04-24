@@ -1,1 +1,3 @@
-["laiminlyödä","jättää huomiotta","hoitaa huonosti"]
+laiminlyödä
+jättää huomiotta
+hoitaa huonosti

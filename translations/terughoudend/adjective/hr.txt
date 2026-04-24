@@ -1,1 +1,3 @@
-["suzdržan","povucen","diskretan"]
+suzdržan
+povucen
+diskretan

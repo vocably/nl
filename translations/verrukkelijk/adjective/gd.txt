@@ -1,1 +1,2 @@
-["blasta","iongantach"]
+blasta
+iongantach

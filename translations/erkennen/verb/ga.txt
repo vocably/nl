@@ -1,1 +1,3 @@
-["admháil","aithnigh","tabhair aitheantas do"]
+admháil
+aithnigh
+tabhair aitheantas do

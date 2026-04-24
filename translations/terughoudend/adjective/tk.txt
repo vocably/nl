@@ -1,1 +1,3 @@
-["çekinjeň","sak","ikirjiňli"]
+çekinjeň
+sak
+ikirjiňli

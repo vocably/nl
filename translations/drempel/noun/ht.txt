@@ -1,1 +1,3 @@
-["papòt","limit","baryè"]
+papòt
+limit
+baryè

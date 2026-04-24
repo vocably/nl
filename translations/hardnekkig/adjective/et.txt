@@ -1,1 +1,2 @@
-["kangekaelne","visa"]
+kangekaelne
+visa

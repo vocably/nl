@@ -1,1 +1,3 @@
-["zanemariti","zapustiti","ne mariti"]
+zanemariti
+zapustiti
+ne mariti

@@ -1,1 +1,3 @@
-["celovit","obsežen","izčrpen"]
+celovit
+obsežen
+izčrpen

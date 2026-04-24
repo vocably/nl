@@ -1,1 +1,4 @@
-["xedapen","eskura","joera","antolamendu"]
+xedapen
+eskura
+joera
+antolamendu

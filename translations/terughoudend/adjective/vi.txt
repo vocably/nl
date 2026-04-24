@@ -1,1 +1,3 @@
-["kín đáo","thận trọng","ngần ngại"]
+kín đáo
+thận trọng
+ngần ngại

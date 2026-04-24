@@ -1,1 +1,3 @@
-["mean air","mean air a' cheum","beag air bheag"]
+mean air
+mean air a' cheum
+beag air bheag

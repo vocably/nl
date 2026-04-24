@@ -1,1 +1,2 @@
-["prudent","atent"]
+prudent
+atent

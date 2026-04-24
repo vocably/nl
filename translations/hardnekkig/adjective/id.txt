@@ -1,1 +1,2 @@
-["keras kepala","ulet"]
+keras kepala
+ulet

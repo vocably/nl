@@ -1,1 +1,3 @@
-["onverwyld","dadelik","direk"]
+onverwyld
+dadelik
+direk

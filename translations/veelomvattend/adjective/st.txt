@@ -1,1 +1,3 @@
-["phara","kgolo","atla"]
+phara
+kgolo
+atla

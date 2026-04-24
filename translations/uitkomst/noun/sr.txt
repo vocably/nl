@@ -1,1 +1,3 @@
-["ishod","rezultat","rešenje"]
+ishod
+rezultat
+rešenje

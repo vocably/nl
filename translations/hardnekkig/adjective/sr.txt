@@ -1,1 +1,2 @@
-["uporan","tvrdoglav"]
+uporan
+tvrdoglav

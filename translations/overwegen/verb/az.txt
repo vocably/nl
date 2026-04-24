@@ -1,1 +1,3 @@
-["düşünmək","fikirləşmək","nəzərdən keçirmək"]
+düşünmək
+fikirləşmək
+nəzərdən keçirmək

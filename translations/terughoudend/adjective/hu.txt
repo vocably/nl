@@ -1,1 +1,3 @@
-["visszafogott","tartózkodó","óvatos"]
+visszafogott
+tartózkodó
+óvatos

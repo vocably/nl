@@ -1,1 +1,2 @@
-["daya lentur","kalenturan"]
+daya lentur
+kalenturan

@@ -1,1 +1,3 @@
-["ferwaarleazgje","ferslonzje","net om lykje"]
+ferwaarleazgje
+ferslonzje
+net om lykje

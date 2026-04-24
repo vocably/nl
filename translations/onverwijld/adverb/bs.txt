@@ -1,1 +1,3 @@
-["odmah","neposredno","bez odlaganja"]
+odmah
+neposredno
+bez odlaganja

@@ -1,1 +1,2 @@
-["bi taybetî","nemaze"]
+bi taybetî
+nemaze

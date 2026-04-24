@@ -1,1 +1,2 @@
-["sprężystość","odporność"]
+sprężystość
+odporność

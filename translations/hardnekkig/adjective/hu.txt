@@ -1,1 +1,2 @@
-["makacs","kitartó"]
+makacs
+kitartó

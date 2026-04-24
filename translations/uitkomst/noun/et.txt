@@ -1,1 +1,3 @@
-["tulemus","lahendus","väljund"]
+tulemus
+lahendus
+väljund

@@ -1,1 +1,3 @@
-["Ujijisha","Wirinda","Ufite isoni"]
+Ujijisha
+Wirinda
+Ufite isoni

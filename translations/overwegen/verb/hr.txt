@@ -1,1 +1,3 @@
-["razmotriti","promisliti","odvagati"]
+razmotriti
+promisliti
+odvagati

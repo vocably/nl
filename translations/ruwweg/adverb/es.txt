@@ -1,1 +1,3 @@
-["aproximadamente","a grandes rasgos","grosso modo"]
+aproximadamente
+a grandes rasgos
+grosso modo

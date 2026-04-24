@@ -1,1 +1,3 @@
-["təmkinli","ehtiyatlı","çəkingən"]
+təmkinli
+ehtiyatlı
+çəkingən

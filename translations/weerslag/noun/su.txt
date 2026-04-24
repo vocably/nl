@@ -1,1 +1,2 @@
-["balesan","epek"]
+balesan
+epek

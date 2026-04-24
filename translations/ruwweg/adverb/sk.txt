@@ -1,1 +1,3 @@
-["hrubo","približne","zhruba"]
+hrubo
+približne
+zhruba

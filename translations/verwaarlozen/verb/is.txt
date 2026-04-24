@@ -1,1 +1,3 @@
-["vanrækja","hirða ekki um","gefa ekki gaum að"]
+vanrækja
+hirða ekki um
+gefa ekki gaum að

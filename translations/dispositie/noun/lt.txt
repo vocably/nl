@@ -1,1 +1,4 @@
-["išdėstymas","nuostata","polinkis","dispozicija"]
+išdėstymas
+nuostata
+polinkis
+dispozicija

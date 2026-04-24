@@ -1,1 +1,3 @@
-["tortinchoq","kamtar","ikkilanuvchi"]
+tortinchoq
+kamtar
+ikkilanuvchi

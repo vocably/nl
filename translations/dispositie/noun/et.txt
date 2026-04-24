@@ -1,1 +1,4 @@
-["korraldus","käsutus","anne","dispositsioon"]
+korraldus
+käsutus
+anne
+dispositsioon

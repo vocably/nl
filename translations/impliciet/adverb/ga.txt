@@ -1,1 +1,2 @@
-["go folaigh","go intuigthe"]
+go folaigh
+go intuigthe

@@ -1,1 +1,2 @@
-["italaga","ialay"]
+italaga
+ialay

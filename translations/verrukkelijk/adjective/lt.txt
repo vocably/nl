@@ -1,1 +1,2 @@
-["skanus","gardus"]
+skanus
+gardus

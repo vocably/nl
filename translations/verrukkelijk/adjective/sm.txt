@@ -1,1 +1,2 @@
-["manaia","suamalie"]
+manaia
+suamalie

@@ -1,1 +1,3 @@
-["premislek","razmislek","pretehtati"]
+premislek
+razmislek
+pretehtati

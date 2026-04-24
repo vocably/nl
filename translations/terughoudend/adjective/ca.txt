@@ -1,1 +1,3 @@
-["reservat","prudent","reticent"]
+reservat
+prudent
+reticent

@@ -1,1 +1,3 @@
-["ampleksa","profunda","multflanka"]
+ampleksa
+profunda
+multflanka

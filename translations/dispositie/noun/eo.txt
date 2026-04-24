@@ -1,1 +1,4 @@
-["aranĝo","dispono","emo","dispozicio"]
+aranĝo
+dispono
+emo
+dispozicio

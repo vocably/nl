@@ -1,1 +1,3 @@
-["mafaufau","iloilo","fuafua"]
+mafaufau
+iloilo
+fuafua

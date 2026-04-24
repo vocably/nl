@@ -1,1 +1,3 @@
-["encam","çareserî","nirx"]
+encam
+çareserî
+nirx

@@ -1,1 +1,3 @@
-["zvehuwandu","zvakangofanana","zvishoma"]
+zvehuwandu
+zvakangofanana
+zvishoma

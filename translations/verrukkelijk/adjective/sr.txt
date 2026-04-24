@@ -1,1 +1,2 @@
-["divan","preukusan"]
+divan
+preukusan

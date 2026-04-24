@@ -1,1 +1,3 @@
-["harkita","punnita","miettiä"]
+harkita
+punnita
+miettiä

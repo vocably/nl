@@ -1,1 +1,2 @@
-["kimmoisuus","sinnikkyys"]
+kimmoisuus
+sinnikkyys

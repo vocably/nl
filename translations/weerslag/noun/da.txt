@@ -1,1 +1,2 @@
-["eftervirkning","tilbageslag"]
+eftervirkning
+tilbageslag

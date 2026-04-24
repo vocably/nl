@@ -1,1 +1,3 @@
-["dengan segera","serta-merta","dengan serta-merta"]
+dengan segera
+serta-merta
+dengan serta-merta

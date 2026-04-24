@@ -1,1 +1,2 @@
-["wolimba","wosagwedera"]
+wolimba
+wosagwedera

@@ -1,1 +1,2 @@
-["elastiklik","chidamlik"]
+elastiklik
+chidamlik

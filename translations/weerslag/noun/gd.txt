@@ -1,1 +1,2 @@
-["buaidh","freagairt"]
+buaidh
+freagairt

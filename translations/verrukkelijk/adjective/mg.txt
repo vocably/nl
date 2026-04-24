@@ -1,1 +1,2 @@
-["mahafinaritra","matsiro"]
+mahafinaritra
+matsiro

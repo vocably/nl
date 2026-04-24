@@ -1,1 +1,3 @@
-["rofweg","ongeveer","by benadering"]
+rofweg
+ongeveer
+by benadering

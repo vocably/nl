@@ -1,1 +1,2 @@
-["kukhulupirika","umphumphu"]
+kukhulupirika
+umphumphu

@@ -1,1 +1,2 @@
-["tsarkakewa","sadaukarwa"]
+tsarkakewa
+sadaukarwa

@@ -1,1 +1,4 @@
-["sərəncam","quruluş","meyl","tərkib"]
+sərəncam
+quruluş
+meyl
+tərkib

@@ -1,1 +1,3 @@
-["etiraf etmək","tanımaq","qiymətləndirmək"]
+etiraf etmək
+tanımaq
+qiymətləndirmək

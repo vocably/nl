@@ -1,1 +1,2 @@
-["maaa","fa'ama'a'a"]
+maaa
+fa'ama'a'a

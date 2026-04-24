@@ -1,1 +1,3 @@
-["riservato","cauto","esitante"]
+riservato
+cauto
+esitante

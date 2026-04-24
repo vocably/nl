@@ -1,1 +1,4 @@
-["pag-aayos","pagkakaayos","disposisyon","hilig"]
+pag-aayos
+pagkakaayos
+disposisyon
+hilig

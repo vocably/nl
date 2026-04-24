@@ -1,1 +1,4 @@
-["dispozicion","rregullim","prirje","ndërtim"]
+dispozicion
+rregullim
+prirje
+ndërtim

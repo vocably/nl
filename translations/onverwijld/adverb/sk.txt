@@ -1,1 +1,3 @@
-["okamžite","bezodkladne","ihneď"]
+okamžite
+bezodkladne
+ihneď

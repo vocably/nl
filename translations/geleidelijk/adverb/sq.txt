@@ -1,1 +1,3 @@
-["gradualisht","dalëngadalë","avash-avash"]
+gradualisht
+dalëngadalë
+avash-avash

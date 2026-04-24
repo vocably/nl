@@ -1,1 +1,2 @@
-["ntsiag to","hauv siab"]
+ntsiag to
+hauv siab

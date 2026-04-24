@@ -1,1 +1,3 @@
-["iwwerleeën","bedenken","ofweien"]
+iwwerleeën
+bedenken
+ofweien

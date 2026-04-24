@@ -1,1 +1,3 @@
-["gradualment","a poc a poc","lentament"]
+gradualment
+a poc a poc
+lentament

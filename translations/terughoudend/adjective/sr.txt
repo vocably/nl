@@ -1,1 +1,3 @@
-["suzdržan","uzdržan","rezervisan"]
+suzdržan
+uzdržan
+rezervisan

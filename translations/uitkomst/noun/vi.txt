@@ -1,1 +1,3 @@
-["kết quả","giải pháp","đáp số"]
+kết quả
+giải pháp
+đáp số

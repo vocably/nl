@@ -1,1 +1,3 @@
-["postupno","polako","s vremenom"]
+postupno
+polako
+s vremenom

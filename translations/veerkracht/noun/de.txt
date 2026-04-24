@@ -1,1 +1,2 @@
-["Elastizität","Federkraft"]
+Elastizität
+Federkraft

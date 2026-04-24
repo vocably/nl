@@ -1,1 +1,3 @@
-["ngarandakah","ngarandeg","ngarandeg-randeg"]
+ngarandakah
+ngarandeg
+ngarandeg-randeg

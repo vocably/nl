@@ -1,1 +1,3 @@
-["umuryango","imbogamizi","igipimo"]
+umuryango
+imbogamizi
+igipimo

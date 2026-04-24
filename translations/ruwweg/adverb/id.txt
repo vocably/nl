@@ -1,1 +1,3 @@
-["kira-kira","sekitar","kasar"]
+kira-kira
+sekitar
+kasar

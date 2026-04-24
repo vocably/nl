@@ -1,1 +1,3 @@
-["netije","çözgüt","jem"]
+netije
+çözgüt
+jem

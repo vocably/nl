@@ -1,1 +1,4 @@
-["kev npaj","kev teeb tsa","kev txheej txheem","lub tswv yim"]
+kev npaj
+kev teeb tsa
+kev txheej txheem
+lub tswv yim

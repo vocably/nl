@@ -1,1 +1,3 @@
-["llindar","barrera","seuil"]
+llindar
+barrera
+seuil

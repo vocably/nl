@@ -1,1 +1,3 @@
-["dèan dearmad air","fàg an dèidh","cuir air chùl"]
+dèan dearmad air
+fàg an dèidh
+cuir air chùl

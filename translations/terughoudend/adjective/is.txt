@@ -1,1 +1,3 @@
-["fyrirvarasamur","hlédrægur","hikandi"]
+fyrirvarasamur
+hlédrægur
+hikandi

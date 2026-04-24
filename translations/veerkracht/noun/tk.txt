@@ -1,1 +1,2 @@
-["çydamlylyk","gaýrakylyk"]
+çydamlylyk
+gaýrakylyk

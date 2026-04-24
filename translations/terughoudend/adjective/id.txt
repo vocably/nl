@@ -1,1 +1,3 @@
-["pendiam","canggung","malu-malu"]
+pendiam
+canggung
+malu-malu

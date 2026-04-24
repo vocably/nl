@@ -1,1 +1,2 @@
-["vaikutus","isku"]
+vaikutus
+isku

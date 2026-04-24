@@ -1,1 +1,3 @@
-["oýlanmak","ara alyp maslahatlaşmak","ölçermek"]
+oýlanmak
+ara alyp maslahatlaşmak
+ölçermek

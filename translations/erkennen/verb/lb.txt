@@ -1,1 +1,3 @@
-["erkennen","ugestoe","wäertschätzen"]
+erkennen
+ugestoe
+wäertschätzen

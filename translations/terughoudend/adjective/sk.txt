@@ -1,1 +1,3 @@
-["zdržanlivý","rezervovaný","rozvážny"]
+zdržanlivý
+rezervovaný
+rozvážny

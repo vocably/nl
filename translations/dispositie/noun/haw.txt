@@ -1,1 +1,4 @@
-["hoʻonohonoho","kauoha","ʻano","hui"]
+hoʻonohonoho
+kauoha
+ʻano
+hui

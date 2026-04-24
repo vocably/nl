@@ -1,1 +1,3 @@
-["pendiam","berhati-hati","segan"]
+pendiam
+berhati-hati
+segan

@@ -1,1 +1,2 @@
-["fè tèt di","obstine"]
+fè tèt di
+obstine

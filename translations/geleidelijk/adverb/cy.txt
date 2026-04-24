@@ -1,1 +1,3 @@
-["yn raddol","fesul cam","yn araf deg"]
+yn raddol
+fesul cam
+yn araf deg

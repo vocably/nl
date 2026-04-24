@@ -1,1 +1,3 @@
-["asta-sekin","sekin-asta","bosqichma-bosqich"]
+asta-sekin
+sekin-asta
+bosqichma-bosqich

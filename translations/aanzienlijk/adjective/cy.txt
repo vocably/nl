@@ -1,1 +1,2 @@
-["sylweddol","pwysig"]
+sylweddol
+pwysig

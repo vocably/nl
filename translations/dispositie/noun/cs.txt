@@ -1,1 +1,4 @@
-["dispozice","uspořádání","sklon","nadání"]
+dispozice
+uspořádání
+sklon
+nadání

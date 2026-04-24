@@ -1,1 +1,3 @@
-["komprensiv","wiesa'","profond"]
+komprensiv
+wiesa'
+profond

@@ -1,1 +1,2 @@
-["aminci","cikakken"]
+aminci
+cikakken

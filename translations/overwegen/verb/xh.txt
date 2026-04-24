@@ -1,1 +1,3 @@
-["c ingcamango","c ingqwalasela","c ukukhetha"]
+c ingcamango
+c ingqwalasela
+c ukukhetha

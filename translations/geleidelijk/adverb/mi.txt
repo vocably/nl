@@ -1,1 +1,3 @@
-["āhua","pōturi haere","āta haere"]
+āhua
+pōturi haere
+āta haere

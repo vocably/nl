@@ -1,1 +1,3 @@
-["anpil","vast","konplè"]
+anpil
+vast
+konplè

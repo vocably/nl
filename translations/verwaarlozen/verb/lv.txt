@@ -1,1 +1,3 @@
-["atstāt novārtā","nevērīgi izturēties","palaist garām"]
+atstāt novārtā
+nevērīgi izturēties
+palaist garām

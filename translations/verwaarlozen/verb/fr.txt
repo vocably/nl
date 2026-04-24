@@ -1,1 +1,3 @@
-["négliger","abandonner","délaisser"]
+négliger
+abandonner
+délaisser

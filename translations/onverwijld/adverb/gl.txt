@@ -1,1 +1,3 @@
-["inmediatamente","sen demora","axiña"]
+inmediatamente
+sen demora
+axiña

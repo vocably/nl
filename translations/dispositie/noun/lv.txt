@@ -1,1 +1,4 @@
-["izkārtojums","rīcība","nosliece","reģistru salikums"]
+izkārtojums
+rīcība
+nosliece
+reģistru salikums

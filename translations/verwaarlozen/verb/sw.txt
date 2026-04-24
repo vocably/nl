@@ -1,1 +1,3 @@
-["puuza","telekeza","acha"]
+puuza
+telekeza
+acha

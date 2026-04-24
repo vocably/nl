@@ -1,1 +1,4 @@
-["dispoziție","aranjament","predispoziție","registre"]
+dispoziție
+aranjament
+predispoziție
+registre

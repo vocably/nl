@@ -1,1 +1,4 @@
-["ulungiselelo","ilungiselelo","isimo","ubume"]
+ulungiselelo
+ilungiselelo
+isimo
+ubume

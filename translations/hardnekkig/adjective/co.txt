@@ -1,1 +1,2 @@
-["caparbiu","testardu"]
+caparbiu
+testardu

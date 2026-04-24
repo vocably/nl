@@ -1,1 +1,4 @@
-["beskikking","aanleg","geaardheid","samestelling"]
+beskikking
+aanleg
+geaardheid
+samestelling

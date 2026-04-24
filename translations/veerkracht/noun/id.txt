@@ -1,1 +1,2 @@
-["elastisitas","daya pegas"]
+elastisitas
+daya pegas

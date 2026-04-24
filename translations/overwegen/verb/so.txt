@@ -1,1 +1,3 @@
-["ka fiirso","tixgeli","miisaan"]
+ka fiirso
+tixgeli
+miisaan

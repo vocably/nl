@@ -1,1 +1,3 @@
-["ea qenehelang","ea ithibang","ea qeaqeanang"]
+ea qenehelang
+ea ithibang
+ea qeaqeanang

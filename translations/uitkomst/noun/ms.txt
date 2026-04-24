@@ -1,1 +1,3 @@
-["hasil","penyelesaian","nilai"]
+hasil
+penyelesaian
+nilai

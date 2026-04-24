@@ -1,1 +1,2 @@
-["dearbhaich","cinnteach"]
+dearbhaich
+cinnteach

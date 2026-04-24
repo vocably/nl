@@ -1,1 +1,3 @@
-["rezultat","zgjidhje","vlerë"]
+rezultat
+zgjidhje
+vlerë

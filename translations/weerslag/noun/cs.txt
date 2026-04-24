@@ -1,1 +1,2 @@
-["dopad","odezva"]
+dopad
+odezva

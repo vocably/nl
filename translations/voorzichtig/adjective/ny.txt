@@ -1,1 +1,2 @@
-["chenicheni","mosamala"]
+chenicheni
+mosamala

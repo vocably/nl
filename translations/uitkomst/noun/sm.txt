@@ -1,1 +1,3 @@
-["iʻuga","tali","fua"]
+iʻuga
+tali
+fua

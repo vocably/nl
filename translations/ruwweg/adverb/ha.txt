@@ -1,1 +1,3 @@
-["da kusan","kusan","gaba ɗaya"]
+da kusan
+kusan
+gaba ɗaya

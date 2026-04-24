@@ -1,1 +1,3 @@
-["giň","köptaraply","çun"]
+giň
+köptaraply
+çun

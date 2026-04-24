@@ -1,1 +1,3 @@
-["ishod","rezultat","rje\\u0161enje"]
+ishod
+rezultat
+rje\u0161enje

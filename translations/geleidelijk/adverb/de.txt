@@ -1,1 +1,3 @@
-["allmählich","schrittweise","langsam"]
+allmählich
+schrittweise
+langsam

@@ -1,1 +1,2 @@
-["delicios","delectabil"]
+delicios
+delectabil

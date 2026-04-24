@@ -1,1 +1,2 @@
-["ekselan","bon gou"]
+ekselan
+bon gou

@@ -1,1 +1,4 @@
-["tokiso","tjhateho","kabelo","sebopeho"]
+tokiso
+tjhateho
+kabelo
+sebopeho

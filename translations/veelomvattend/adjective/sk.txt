@@ -1,1 +1,3 @@
-["komplexný","rozsiahly","všestranný"]
+komplexný
+rozsiahly
+všestranný

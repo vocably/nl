@@ -1,1 +1,2 @@
-["kutakasa","kujitolea"]
+kutakasa
+kujitolea

@@ -1,1 +1,4 @@
-["tata","aturan","bakat","susunan"]
+tata
+aturan
+bakat
+susunan

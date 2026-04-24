@@ -1,1 +1,3 @@
-["immediately","without delay","promptly"]
+immediately
+without delay
+promptly

@@ -1,1 +1,3 @@
-["rezilta","solisyon","valè"]
+rezilta
+solisyon
+valè

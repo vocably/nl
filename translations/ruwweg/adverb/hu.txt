@@ -1,1 +1,3 @@
-["durván","körülbelül","hozzávetőlegesen"]
+durván
+körülbelül
+hozzávetőlegesen

@@ -1,1 +1,2 @@
-["uparty","zawzięty"]
+uparty
+zawzięty

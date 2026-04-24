@@ -1,1 +1,2 @@
-["uczciwość","integralność"]
+uczciwość
+integralność

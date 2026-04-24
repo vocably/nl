@@ -1,1 +1,3 @@
-["ngay lập tức","không chậm trễ","lập tức"]
+ngay lập tức
+không chậm trễ
+lập tức

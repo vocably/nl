@@ -1,1 +1,2 @@
-["yn enwedig","yn bennaf"]
+yn enwedig
+yn bennaf

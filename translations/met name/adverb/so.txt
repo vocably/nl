@@ -1,1 +1,2 @@
-["gaar ahaan","khaasatan"]
+gaar ahaan
+khaasatan

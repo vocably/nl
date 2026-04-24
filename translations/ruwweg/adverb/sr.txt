@@ -1,1 +1,3 @@
-["grubo","otprilike","približno"]
+grubo
+otprilike
+približno

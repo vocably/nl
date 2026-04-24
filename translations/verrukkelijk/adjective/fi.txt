@@ -1,1 +1,2 @@
-["herkullinen","ihana"]
+herkullinen
+ihana

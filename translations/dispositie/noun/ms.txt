@@ -1,1 +1,4 @@
-["susunan","disposisi","bakat","kecenderungan"]
+susunan
+disposisi
+bakat
+kecenderungan

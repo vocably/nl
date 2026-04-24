@@ -1,1 +1,2 @@
-["pašventinti","skirti"]
+pašventinti
+skirti

@@ -1,1 +1,3 @@
-["gróflega","svona","nokkurn veginn"]
+gróflega
+svona
+nokkurn veginn

@@ -1,1 +1,2 @@
-["netije","yza tislme"]
+netije
+yza tislme

@@ -1,1 +1,3 @@
-["gbogbo","kika","fifẹ"]
+gbogbo
+kika
+fifẹ

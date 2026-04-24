@@ -1,1 +1,3 @@
-["comprehensive","extensive","far-reaching"]
+comprehensive
+extensive
+far-reaching

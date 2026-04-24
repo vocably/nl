@@ -1,1 +1,3 @@
-["postupne","pozvoľna","pomaly"]
+postupne
+pozvoľna
+pomaly

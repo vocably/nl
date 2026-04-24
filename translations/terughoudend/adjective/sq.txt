@@ -1,1 +1,3 @@
-["i përmbajtur","i rezervuar","hezigant"]
+i përmbajtur
+i rezervuar
+hezigant

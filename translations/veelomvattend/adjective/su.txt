@@ -1,1 +1,3 @@
-["jembar","lega","luas"]
+jembar
+lega
+luas

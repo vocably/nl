@@ -1,1 +1,3 @@
-["imediatamente","sem demora","já"]
+imediatamente
+sem demora
+já

@@ -1,1 +1,2 @@
-["in particulare","principalmente"]
+in particulare
+principalmente

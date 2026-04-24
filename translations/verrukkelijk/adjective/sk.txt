@@ -1,1 +1,2 @@
-["lahodný","rozkošný"]
+lahodný
+rozkošný

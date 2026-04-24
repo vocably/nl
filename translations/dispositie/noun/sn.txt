@@ -1,1 +1,4 @@
-["urongwa","sangano","pfungwa","kugadzirira"]
+urongwa
+sangano
+pfungwa
+kugadzirira

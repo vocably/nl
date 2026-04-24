@@ -1,1 +1,3 @@
-["drovus","santūrus","nedrąsus"]
+drovus
+santūrus
+nedrąsus

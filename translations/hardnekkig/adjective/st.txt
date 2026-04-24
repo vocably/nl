@@ -1,1 +1,2 @@
-["manganga","mafura"]
+manganga
+mafura

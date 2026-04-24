@@ -1,1 +1,2 @@
-["cứng đầu","dai dẳng"]
+cứng đầu
+dai dẳng

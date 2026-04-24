@@ -1,1 +1,2 @@
-["oansjenlik","achtber"]
+oansjenlik
+achtber

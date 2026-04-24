@@ -1,1 +1,2 @@
-["juriya","maida"]
+juriya
+maida

@@ -1,1 +1,2 @@
-["considerevole","notevole"]
+considerevole
+notevole

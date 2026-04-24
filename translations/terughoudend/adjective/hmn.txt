@@ -1,1 +1,3 @@
-["txaj muag","tsis tawm","tos"]
+txaj muag
+tsis tawm
+tos

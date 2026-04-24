@@ -1,1 +1,3 @@
-["cynhwysfawr","helaeth","eang"]
+cynhwysfawr
+helaeth
+eang

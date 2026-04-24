@@ -1,1 +1,3 @@
-["reservéiert","zréckhalend","zéckt"]
+reservéiert
+zréckhalend
+zéckt

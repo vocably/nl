@@ -1,1 +1,4 @@
-["faatulagaga","sauniuniga","tofiga","faiga"]
+faatulagaga
+sauniuniga
+tofiga
+faiga

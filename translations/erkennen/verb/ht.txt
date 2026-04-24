@@ -1,1 +1,3 @@
-["rekonèt","admèt","apresye"]
+rekonèt
+admèt
+apresye

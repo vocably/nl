@@ -1,1 +1,3 @@
-["omfattende","vidtfavnende","uddybende"]
+omfattende
+vidtfavnende
+uddybende

@@ -1,1 +1,2 @@
-["spesielt","særlig"]
+spesielt
+særlig

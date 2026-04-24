@@ -1,1 +1,2 @@
-["veerkrag","resiliensie"]
+veerkrag
+resiliensie

@@ -1,1 +1,3 @@
-["cuprinzător","vast","extins"]
+cuprinzător
+vast
+extins

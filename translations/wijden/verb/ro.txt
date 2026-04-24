@@ -1,1 +1,2 @@
-["sfinți","dedica"]
+sfinți
+dedica

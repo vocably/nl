@@ -1,1 +1,2 @@
-["vígja","helga"]
+vígja
+helga

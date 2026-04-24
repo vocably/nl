@@ -1,1 +1,3 @@
-["erkende","indrømmede","accepterede"]
+erkende
+indrømmede
+accepterede

@@ -1,1 +1,3 @@
-["hooletusse jätma","unarusse jätma","mitte hoolitsema"]
+hooletusse jätma
+unarusse jätma
+mitte hoolitsema

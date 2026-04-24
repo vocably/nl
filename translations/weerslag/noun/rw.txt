@@ -1,1 +1,2 @@
-["ingaruka","igisubizo"]
+ingaruka
+igisubizo

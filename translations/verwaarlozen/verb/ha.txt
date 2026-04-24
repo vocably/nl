@@ -1,1 +1,3 @@
-["sakarce","watsi da","manta da"]
+sakarce
+watsi da
+manta da

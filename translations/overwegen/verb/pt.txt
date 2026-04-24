@@ -1,1 +1,3 @@
-["considerar","ponderar","refletir"]
+considerar
+ponderar
+refletir

@@ -1,1 +1,4 @@
-["rèiteachadh","cur-seachad","comhdhealbhadh","dòigh"]
+rèiteachadh
+cur-seachad
+comhdhealbhadh
+dòigh

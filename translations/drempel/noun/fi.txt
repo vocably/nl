@@ -1,1 +1,3 @@
-["kynnys","este","raja-arvo"]
+kynnys
+este
+raja-arvo

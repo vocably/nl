@@ -1,1 +1,3 @@
-["zanedbávat","opomíjet","zchátrat"]
+zanedbávat
+opomíjet
+zchátrat

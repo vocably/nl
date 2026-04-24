@@ -1,1 +1,3 @@
-["pakāpeniski","pamazām","pamazītiņām"]
+pakāpeniski
+pamazām
+pamazītiņām

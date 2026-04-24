@@ -1,1 +1,3 @@
-["uforverdet","øyeblikkelig","straks"]
+uforverdet
+øyeblikkelig
+straks

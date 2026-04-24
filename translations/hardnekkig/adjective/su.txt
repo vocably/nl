@@ -1,1 +1,2 @@
-["pengkuh","teuneung"]
+pengkuh
+teuneung

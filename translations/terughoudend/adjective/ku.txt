@@ -1,1 +1,3 @@
-["şermok","xemgîn","bêdeng"]
+şermok
+xemgîn
+bêdeng

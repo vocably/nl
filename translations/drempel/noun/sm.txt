@@ -1,1 +1,3 @@
-["paepae","fa'alavelave","tapula'a"]
+paepae
+fa'alavelave
+tapula'a

@@ -1,1 +1,3 @@
-["mankasitraka","tsy miraharaha","tsy mikarakara"]
+mankasitraka
+tsy miraharaha
+tsy mikarakara

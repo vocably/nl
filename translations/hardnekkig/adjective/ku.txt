@@ -1,1 +1,2 @@
-["serhişk","qerimî"]
+serhişk
+qerimî

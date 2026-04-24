@@ -1,1 +1,2 @@
-["entegrite","inite"]
+entegrite
+inite

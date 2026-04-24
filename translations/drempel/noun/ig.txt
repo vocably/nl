@@ -1,1 +1,3 @@
-["Ọnụ ụzọ","Ihe mgbochi","Mgbapụta"]
+Ọnụ ụzọ
+Ihe mgbochi
+Mgbapụta

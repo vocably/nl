@@ -1,1 +1,3 @@
-["dayac","iskadhig","dhayalsi"]
+dayac
+iskadhig
+dhayalsi

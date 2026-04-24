@@ -1,1 +1,2 @@
-["posledica","odmev"]
+posledica
+odmev

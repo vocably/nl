@@ -1,1 +1,3 @@
-["kungwarira","kunonoka","kuzvidzora"]
+kungwarira
+kunonoka
+kuzvidzora

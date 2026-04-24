@@ -1,1 +1,3 @@
-["reserved","restrained","reluctant"]
+reserved
+restrained
+reluctant

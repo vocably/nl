@@ -1,1 +1,3 @@
-["faillí a dhéanamh ar","dearmad a dhéanamh ar","neamart a dhéanamh ar"]
+faillí a dhéanamh ar
+dearmad a dhéanamh ar
+neamart a dhéanamh ar

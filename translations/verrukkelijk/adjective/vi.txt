@@ -1,1 +1,2 @@
-["ngon","thú vị"]
+ngon
+thú vị

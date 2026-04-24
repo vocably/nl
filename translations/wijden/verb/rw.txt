@@ -1,1 +1,2 @@
-["kwiyegurira","gutura"]
+kwiyegurira
+gutura

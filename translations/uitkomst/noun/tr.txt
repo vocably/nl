@@ -1,1 +1,3 @@
-["sonuç","çözüm","netice"]
+sonuç
+çözüm
+netice

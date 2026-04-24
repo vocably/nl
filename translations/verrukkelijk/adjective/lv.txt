@@ -1,1 +1,2 @@
-["gards","izcils"]
+gards
+izcils

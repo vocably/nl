@@ -1,1 +1,4 @@
-["dispusizione","ordine","tendenza","attitudine"]
+dispusizione
+ordine
+tendenza
+attitudine

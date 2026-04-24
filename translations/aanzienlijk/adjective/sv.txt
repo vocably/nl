@@ -1,1 +1,2 @@
-["betydande","ansenlig"]
+betydande
+ansenlig

@@ -1,1 +1,4 @@
-["disposition","anlag","läggning","uppställning"]
+disposition
+anlag
+läggning
+uppställning

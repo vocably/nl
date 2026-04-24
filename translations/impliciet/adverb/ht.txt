@@ -1,1 +1,2 @@
-["implicitement","endirekteman"]
+implicitement
+endirekteman

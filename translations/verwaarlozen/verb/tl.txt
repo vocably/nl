@@ -1,1 +1,3 @@
-["pabayaan","ipagwalang-bahala","balewalain"]
+pabayaan
+ipagwalang-bahala
+balewalain

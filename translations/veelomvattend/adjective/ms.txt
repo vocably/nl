@@ -1,1 +1,3 @@
-["menyeluruh","komprehensif","ekstensif"]
+menyeluruh
+komprehensif
+ekstensif

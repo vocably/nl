@@ -1,1 +1,3 @@
-["drompel","barriêre","grinswearde"]
+drompel
+barriêre
+grinswearde

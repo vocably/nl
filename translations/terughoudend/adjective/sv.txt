@@ -1,1 +1,3 @@
-["tillbakadragen","reserverad","försiktig"]
+tillbakadragen
+reserverad
+försiktig

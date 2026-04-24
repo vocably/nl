@@ -1,1 +1,2 @@
-["gaty","gizlin"]
+gaty
+gizlin

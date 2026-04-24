@@ -1,1 +1,3 @@
-["jirrikonoxxi","jammetti","japprezza"]
+jirrikonoxxi
+jammetti
+japprezza

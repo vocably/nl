@@ -1,1 +1,3 @@
-["yavaş yavaş","giderek","zamanla"]
+yavaş yavaş
+giderek
+zamanla

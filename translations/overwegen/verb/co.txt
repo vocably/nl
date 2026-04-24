@@ -1,1 +1,3 @@
-["cunsiderà","riflette","pensà"]
+cunsiderà
+riflette
+pensà

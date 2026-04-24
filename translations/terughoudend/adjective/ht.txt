@@ -1,1 +1,3 @@
-["rezève","pridan","ezitan"]
+rezève
+pridan
+ezitan

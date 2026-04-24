@@ -1,1 +1,3 @@
-["sans délai","immédiatement","sur-le-champ"]
+sans délai
+immédiatement
+sur-le-champ

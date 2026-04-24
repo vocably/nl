@@ -1,1 +1,3 @@
-["abrangente","amplo","extenso"]
+abrangente
+amplo
+extenso

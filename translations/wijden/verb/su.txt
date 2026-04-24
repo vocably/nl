@@ -1,1 +1,2 @@
-["ngahaturkeun","ngabaktikeun"]
+ngahaturkeun
+ngabaktikeun

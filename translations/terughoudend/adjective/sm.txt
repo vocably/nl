@@ -1,1 +1,3 @@
-["fa'autauta","fa'amā","fa'alotolua"]
+fa'autauta
+fa'amā
+fa'alotolua

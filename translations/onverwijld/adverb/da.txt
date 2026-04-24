@@ -1,1 +1,3 @@
-["uopholdeligt","øjeblikkeligt","straks"]
+uopholdeligt
+øjeblikkeligt
+straks

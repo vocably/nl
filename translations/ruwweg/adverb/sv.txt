@@ -1,1 +1,3 @@
-["ungefär","grovt","på ett ungefär"]
+ungefär
+grovt
+på ett ungefär

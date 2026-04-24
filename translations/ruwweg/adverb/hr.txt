@@ -1,1 +1,3 @@
-["otprilike","grubo","odokativno"]
+otprilike
+grubo
+odokativno

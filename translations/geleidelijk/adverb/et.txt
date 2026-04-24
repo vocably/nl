@@ -1,1 +1,3 @@
-["järkjärgult","tasapisi","vähehaaval"]
+järkjärgult
+tasapisi
+vähehaaval

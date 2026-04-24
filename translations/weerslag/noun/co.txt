@@ -1,1 +1,2 @@
-["ripercussione","contraccolpu"]
+ripercussione
+contraccolpu

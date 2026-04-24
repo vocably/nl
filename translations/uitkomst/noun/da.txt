@@ -1,1 +1,3 @@
-["resultat","udfald","løsning"]
+resultat
+udfald
+løsning

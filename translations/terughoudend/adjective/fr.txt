@@ -1,1 +1,3 @@
-["réservé","discret","retenu"]
+réservé
+discret
+retenu

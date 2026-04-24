@@ -1,1 +1,3 @@
-["all'incirca","approssimativamente","grosso modo"]
+all'incirca
+approssimativamente
+grosso modo

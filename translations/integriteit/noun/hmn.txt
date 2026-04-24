@@ -1,1 +1,2 @@
-["ncaj","kev ncaj ncees"]
+ncaj
+kev ncaj ncees

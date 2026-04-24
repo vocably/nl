@@ -1,1 +1,3 @@
-["eo ho eo","tsy tena marina","amin'ny ankapobeny"]
+eo ho eo
+tsy tena marina
+amin'ny ankapobeny

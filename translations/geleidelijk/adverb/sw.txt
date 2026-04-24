@@ -1,1 +1,3 @@
-["hatua kwa hatua","polepole","taratibu"]
+hatua kwa hatua
+polepole
+taratibu

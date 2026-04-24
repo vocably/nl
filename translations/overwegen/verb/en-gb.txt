@@ -1,1 +1,3 @@
-["consider","weigh up","contemplate"]
+consider
+weigh up
+contemplate

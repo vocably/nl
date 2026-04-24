@@ -1,1 +1,3 @@
-["cydnabod","ardystio","gwerthfawrogi"]
+cydnabod
+ardystio
+gwerthfawrogi

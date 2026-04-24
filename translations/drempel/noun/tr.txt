@@ -1,1 +1,3 @@
-["eşik","engel","limit"]
+eşik
+engel
+limit

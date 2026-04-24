@@ -1,1 +1,3 @@
-["zurückhaltend","reserviert","zögernd"]
+zurückhaltend
+reserviert
+zögernd

@@ -1,1 +1,2 @@
-["mai girma","sananne"]
+mai girma
+sananne

@@ -1,1 +1,4 @@
-["disposisjon","anlegg","tilbøyelighet","sammensetning"]
+disposisjon
+anlegg
+tilbøyelighet
+sammensetning

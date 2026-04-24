@@ -1,1 +1,3 @@
-["gutxi gorabehera","goi-behean","biribilean"]
+gutxi gorabehera
+goi-behean
+biribilean

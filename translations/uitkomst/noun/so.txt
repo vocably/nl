@@ -1,1 +1,3 @@
-["natiijo","xal","jawiga"]
+natiijo
+xal
+jawiga

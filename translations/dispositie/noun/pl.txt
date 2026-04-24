@@ -1,1 +1,4 @@
-["dyspozycja","usposobienie","rozporządzenie","rozmieszczenie"]
+dyspozycja
+usposobienie
+rozporządzenie
+rozmieszczenie

@@ -1,1 +1,3 @@
-["umbkaudu","ligikaudu","jämedalt"]
+umbkaudu
+ligikaudu
+jämedalt

@@ -1,1 +1,2 @@
-["faatauanau","uli"]
+faatauanau
+uli

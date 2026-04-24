@@ -1,1 +1,3 @@
-["natija","yechim","hisob-kitob"]
+natija
+yechim
+hisob-kitob

@@ -1,1 +1,3 @@
-["zdrženlivý","rezervovaný","váhavý"]
+zdrženlivý
+rezervovaný
+váhavý

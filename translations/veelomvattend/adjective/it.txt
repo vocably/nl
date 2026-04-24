@@ -1,1 +1,3 @@
-["completo","esauriente","comprensivo"]
+completo
+esauriente
+comprensivo

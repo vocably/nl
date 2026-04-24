@@ -1,1 +1,2 @@
-["weerslag","terugslag"]
+weerslag
+terugslag

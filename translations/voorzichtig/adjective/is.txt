@@ -1,1 +1,2 @@
-["varkár","gætilegur"]
+varkár
+gætilegur

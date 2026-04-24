@@ -1,1 +1,3 @@
-["enggal","geuwat","buruburu"]
+enggal
+geuwat
+buruburu

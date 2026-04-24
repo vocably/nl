@@ -1,1 +1,2 @@
-["încăpățânat","persistent"]
+încăpățânat
+persistent

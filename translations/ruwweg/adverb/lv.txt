@@ -1,1 +1,3 @@
-["aptuveni","rupji","gandrīz"]
+aptuveni
+rupji
+gandrīz

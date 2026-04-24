@@ -1,1 +1,4 @@
-["düzen","eğilim","yatkınlık","tertip"]
+düzen
+eğilim
+yatkınlık
+tertip

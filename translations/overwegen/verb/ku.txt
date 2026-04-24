@@ -1,1 +1,3 @@
-["ramankirin","bifikirin","hesibandin"]
+ramankirin
+bifikirin
+hesibandin

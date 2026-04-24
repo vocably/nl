@@ -1,1 +1,2 @@
-["talsvert","verulegur"]
+talsvert
+verulegur

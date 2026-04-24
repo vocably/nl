@@ -1,1 +1,3 @@
-["berangsur-angsur","perlahan-lahan","setahap demi setahap"]
+berangsur-angsur
+perlahan-lahan
+setahap demi setahap

@@ -1,1 +1,3 @@
-["küszöb","akadály","határérték"]
+küszöb
+akadály
+határérték

@@ -1,1 +1,3 @@
-["kobud","təqribən","üstüörtülü"]
+kobud
+təqribən
+üstüörtülü

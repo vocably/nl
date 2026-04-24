@@ -1,1 +1,2 @@
-["sagrar","dedicar"]
+sagrar
+dedicar

@@ -1,1 +1,3 @@
-["glèidhte","tearc","air doineann"]
+glèidhte
+tearc
+air doineann

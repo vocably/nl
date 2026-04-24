@@ -1,1 +1,2 @@
-["mai-hankali","a hankali"]
+mai-hankali
+a hankali

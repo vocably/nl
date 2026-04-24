@@ -1,1 +1,3 @@
-["ambang","halangan","wates"]
+ambang
+halangan
+wates

@@ -1,1 +1,2 @@
-["veenda","ümber veenda"]
+veenda
+ümber veenda

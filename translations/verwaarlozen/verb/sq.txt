@@ -1,1 +1,3 @@
-["lë pas dore","neglijo","braktis"]
+lë pas dore
+neglijo
+braktis

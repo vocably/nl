@@ -1,1 +1,2 @@
-["die Integrität","die Unversehrtheit"]
+die Integrität
+die Unversehrtheit

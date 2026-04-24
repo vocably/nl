@@ -1,1 +1,3 @@
-["yakafara","yakakura","yakadzama"]
+yakafara
+yakakura
+yakadzama

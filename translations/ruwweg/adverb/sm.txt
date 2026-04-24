@@ -1,1 +1,3 @@
-["tusa","pe tusa","faʻatatau"]
+tusa
+pe tusa
+faʻatatau

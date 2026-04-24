@@ -1,1 +1,2 @@
-["seigla","viðnámsþróttur"]
+seigla
+viðnámsþróttur

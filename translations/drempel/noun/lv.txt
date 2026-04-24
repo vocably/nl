@@ -1,1 +1,3 @@
-["slieksnis","šķērslis","robežvērtība"]
+slieksnis
+šķērslis
+robežvērtība

@@ -1,1 +1,2 @@
-["eriti","eelkõige"]
+eriti
+eelkõige

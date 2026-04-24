@@ -1,1 +1,3 @@
-["komprehensibo","malawakan","masaklaw"]
+komprehensibo
+malawakan
+masaklaw

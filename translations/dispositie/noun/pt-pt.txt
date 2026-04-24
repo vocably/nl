@@ -1,1 +1,4 @@
-["disposição","ordem","índole","estrutura"]
+disposição
+ordem
+índole
+estrutura

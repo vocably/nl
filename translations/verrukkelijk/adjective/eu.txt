@@ -1,1 +1,2 @@
-["gozo","bikain"]
+gozo
+bikain

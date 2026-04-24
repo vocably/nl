@@ -1,1 +1,3 @@
-["wiidweidich","útwreide","fide"]
+wiidweidich
+útwreide
+fide

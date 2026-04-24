@@ -1,1 +1,2 @@
-["aks sado","ta'sir"]
+aks sado
+ta'sir

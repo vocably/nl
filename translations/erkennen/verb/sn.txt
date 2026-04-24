@@ -1,1 +1,3 @@
-["kubvuma","kuziva","kutenda"]
+kubvuma
+kuziva
+kutenda

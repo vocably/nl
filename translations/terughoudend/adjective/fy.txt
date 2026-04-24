@@ -1,1 +1,3 @@
-["terhâldend","ôfhâldend","foarsichtich"]
+terhâldend
+ôfhâldend
+foarsichtich

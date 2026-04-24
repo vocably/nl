@@ -1,1 +1,2 @@
-["integritas","kaonaran"]
+integritas
+kaonaran

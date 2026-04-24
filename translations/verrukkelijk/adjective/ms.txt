@@ -1,1 +1,2 @@
-["sedap","lazat"]
+sedap
+lazat

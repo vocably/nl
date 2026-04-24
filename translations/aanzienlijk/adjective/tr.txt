@@ -1,1 +1,2 @@
-["önemli","hatırı sayılır"]
+önemli
+hatırı sayılır

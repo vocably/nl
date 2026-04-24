@@ -1,1 +1,2 @@
-["teimudo","persistente"]
+teimudo
+persistente

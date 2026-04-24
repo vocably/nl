@@ -1,1 +1,3 @@
-["a considera","a delibera","a cântări"]
+a considera
+a delibera
+a cântări

@@ -1,1 +1,2 @@
-["köstlich","herrlich"]
+köstlich
+herrlich

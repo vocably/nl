@@ -1,1 +1,3 @@
-["vurdere","overveie","tenke over"]
+vurdere
+overveie
+tenke over

@@ -1,1 +1,2 @@
-["ageng","wigati"]
+ageng
+wigati

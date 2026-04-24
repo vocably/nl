@@ -1,1 +1,3 @@
-["geleidelik","stelselmatig","gaandeweg"]
+geleidelik
+stelselmatig
+gaandeweg

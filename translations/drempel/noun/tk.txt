@@ -1,1 +1,3 @@
-["bosaga","astana","böwet"]
+bosaga
+astana
+böwet

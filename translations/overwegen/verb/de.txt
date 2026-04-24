@@ -1,1 +1,3 @@
-["erwägen","bedenken","nachdenken"]
+erwägen
+bedenken
+nachdenken

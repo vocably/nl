@@ -1,1 +1,3 @@
-["taxminan","dag'al","qo'pol"]
+taxminan
+dag'al
+qo'pol

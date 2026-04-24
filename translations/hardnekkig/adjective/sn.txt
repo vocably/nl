@@ -1,1 +1,2 @@
-["Nekeswa","Kukakavara"]
+Nekeswa
+Kukakavara

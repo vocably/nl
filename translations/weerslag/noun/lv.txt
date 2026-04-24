@@ -1,1 +1,2 @@
-["atbalss","ietekme"]
+atbalss
+ietekme

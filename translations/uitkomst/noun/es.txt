@@ -1,1 +1,3 @@
-["resultado","solución","valor"]
+resultado
+solución
+valor

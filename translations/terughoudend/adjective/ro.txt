@@ -1,1 +1,3 @@
-["reținut","reticent","ezitant"]
+reținut
+reticent
+ezitant

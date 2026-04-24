@@ -1,1 +1,3 @@
-["tröskel","hinder","gränsvärde"]
+tröskel
+hinder
+gränsvärde

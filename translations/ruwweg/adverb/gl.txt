@@ -1,1 +1,3 @@
-["grozamente","aproximadamente","máis ou menos"]
+grozamente
+aproximadamente
+máis ou menos

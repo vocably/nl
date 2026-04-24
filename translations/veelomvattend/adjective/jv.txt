@@ -1,1 +1,3 @@
-["jembar","wiyar","ngemu"]
+jembar
+wiyar
+ngemu

@@ -1,1 +1,4 @@
-["mpangilio","utaratibu","tabia","uwezo"]
+mpangilio
+utaratibu
+tabia
+uwezo

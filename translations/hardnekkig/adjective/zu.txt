@@ -1,1 +1,2 @@
-["nenkani","olukhuni"]
+nenkani
+olukhuni

@@ -1,1 +1,2 @@
-["vakuuttaa","taivutella"]
+vakuuttaa
+taivutella

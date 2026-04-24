@@ -1,1 +1,3 @@
-["ho ananela","ho amohela","ho dumela"]
+ho ananela
+ho amohela
+ho dumela

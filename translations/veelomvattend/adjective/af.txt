@@ -1,1 +1,3 @@
-["omvattend","uitgebrei","diepgaande"]
+omvattend
+uitgebrei
+diepgaande

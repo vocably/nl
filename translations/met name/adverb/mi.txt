@@ -1,1 +1,2 @@
-["āpiti","tautautefito"]
+āpiti
+tautautefito

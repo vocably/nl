@@ -1,1 +1,2 @@
-["yansıma","etki"]
+yansıma
+etki

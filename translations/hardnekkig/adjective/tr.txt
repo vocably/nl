@@ -1,1 +1,2 @@
-["inatçı","dirençli"]
+inatçı
+dirençli

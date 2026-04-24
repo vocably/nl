@@ -1,1 +1,2 @@
-["posledica","udarac"]
+posledica
+udarac

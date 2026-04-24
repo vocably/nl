@@ -1,1 +1,4 @@
-["elrendezés","rendelkezés","hajlam","diszpozíció"]
+elrendezés
+rendelkezés
+hajlam
+diszpozíció

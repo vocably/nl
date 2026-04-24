@@ -1,1 +1,2 @@
-["finom","ízletes"]
+finom
+ízletes

@@ -1,1 +1,3 @@
-["laqeyd yanaşmaq","əhəmiyyət verməmək","baxımsızlıq etmək"]
+laqeyd yanaşmaq
+əhəmiyyət verməmək
+baxımsızlıq etmək

@@ -1,1 +1,3 @@
-["viivitamata","kohe","otsekohe"]
+viivitamata
+kohe
+otsekohe

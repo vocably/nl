@@ -1,1 +1,2 @@
-["elastičnost","odpornost"]
+elastičnost
+odpornost

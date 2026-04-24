@@ -1,1 +1,2 @@
-["hardnakkig","seig"]
+hardnakkig
+seig

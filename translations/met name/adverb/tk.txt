@@ -1,1 +1,2 @@
-["esasanam","hususan-da"]
+esasanam
+hususan-da

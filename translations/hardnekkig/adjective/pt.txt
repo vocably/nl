@@ -1,1 +1,2 @@
-["teimoso","persistente"]
+teimoso
+persistente

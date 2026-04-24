@@ -1,1 +1,2 @@
-["Madax adag","Ku adkaysi"]
+Madax adag
+Ku adkaysi

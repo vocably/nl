@@ -1,1 +1,3 @@
-["forsømme","vanrøgte","negligere"]
+forsømme
+vanrøgte
+negligere

@@ -1,1 +1,3 @@
-["riservatu","schivu","esitante"]
+riservatu
+schivu
+esitante

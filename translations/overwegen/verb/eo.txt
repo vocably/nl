@@ -1,1 +1,3 @@
-["pripenso","konsidero","medito"]
+pripenso
+konsidero
+medito

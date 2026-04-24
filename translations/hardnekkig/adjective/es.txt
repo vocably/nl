@@ -1,1 +1,2 @@
-["terco","persistente"]
+terco
+persistente

@@ -1,1 +1,2 @@
-["saameyn","dhacdo"]
+saameyn
+dhacdo

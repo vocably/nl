@@ -1,1 +1,2 @@
-["biryoshye","bishimishije"]
+biryoshye
+bishimishije

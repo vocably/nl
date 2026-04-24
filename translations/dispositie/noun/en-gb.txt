@@ -1,1 +1,4 @@
-["disposition","arrangement","inclination","tendency"]
+disposition
+arrangement
+inclination
+tendency

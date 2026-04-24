@@ -1,1 +1,3 @@
-["kabul etmek","onaylamak","takdir etmek"]
+kabul etmek
+onaylamak
+takdir etmek

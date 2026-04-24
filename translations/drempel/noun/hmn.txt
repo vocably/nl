@@ -1,1 +1,3 @@
-["qhov rooj","kev tiv thaiv","kev txwv"]
+qhov rooj
+kev tiv thaiv
+kev txwv

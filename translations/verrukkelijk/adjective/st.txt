@@ -1,1 +1,2 @@
-["monate","tsoekere"]
+monate
+tsoekere

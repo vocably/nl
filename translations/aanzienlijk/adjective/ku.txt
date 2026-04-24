@@ -1,1 +1,2 @@
-["girîng","berçav"]
+girîng
+berçav

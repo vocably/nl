@@ -1,1 +1,3 @@
-["amplo","extenso","integral"]
+amplo
+extenso
+integral

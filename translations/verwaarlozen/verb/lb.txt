@@ -1,1 +1,3 @@
-["veronsaachen","vernoléissegen","verwahrlosen"]
+veronsaachen
+vernoléissegen
+verwahrlosen

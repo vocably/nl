@@ -1,1 +1,3 @@
-["ngokurhabaxa","phantse","malunga"]
+ngokurhabaxa
+phantse
+malunga

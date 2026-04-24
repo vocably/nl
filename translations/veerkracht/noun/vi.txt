@@ -1,1 +1,2 @@
-["độ đàn hồi","khả năng phục hồi"]
+độ đàn hồi
+khả năng phục hồi

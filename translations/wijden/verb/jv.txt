@@ -1,1 +1,2 @@
-["ngaturake","ngaturaken"]
+ngaturake
+ngaturaken

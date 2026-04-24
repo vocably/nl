@@ -1,1 +1,4 @@
-["järjestely","määräys","luonne","dispositio"]
+järjestely
+määräys
+luonne
+dispositio

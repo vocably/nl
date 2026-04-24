@@ -1,1 +1,3 @@
-["yarda","ganewa","girmamawa"]
+yarda
+ganewa
+girmamawa

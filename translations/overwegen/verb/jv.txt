@@ -1,1 +1,3 @@
-["ngrembug","nimbang","ngeling-eling"]
+ngrembug
+nimbang
+ngeling-eling

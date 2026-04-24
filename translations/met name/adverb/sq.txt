@@ -1,1 +1,2 @@
-["sidomos","veçanërisht"]
+sidomos
+veçanërisht

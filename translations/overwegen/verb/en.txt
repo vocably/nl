@@ -1,1 +1,3 @@
-["consider","weigh","deliberate"]
+consider
+weigh
+deliberate

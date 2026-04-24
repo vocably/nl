@@ -1,1 +1,2 @@
-["bag'ishlamoq","atalgan"]
+bag'ishlamoq
+atalgan

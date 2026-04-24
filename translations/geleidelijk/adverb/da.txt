@@ -1,1 +1,3 @@
-["gradvist","efterhånden","lidt efter lidt"]
+gradvist
+efterhånden
+lidt efter lidt

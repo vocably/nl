@@ -1,1 +1,3 @@
-["berfireh","kûr","fireh"]
+berfireh
+kûr
+fireh

@@ -1,1 +1,3 @@
-["garbh","neaschruinn","thart ar"]
+garbh
+neaschruinn
+thart ar

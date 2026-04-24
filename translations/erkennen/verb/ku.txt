@@ -1,1 +1,3 @@
-["dan bi","nasîn","qebûl kirin"]
+dan bi
+nasîn
+qebûl kirin

@@ -1,1 +1,3 @@
-["omfattande","alltomfattande","djupgående"]
+omfattande
+alltomfattande
+djupgående

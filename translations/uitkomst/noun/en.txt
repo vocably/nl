@@ -1,1 +1,3 @@
-["outcome","result","solution"]
+outcome
+result
+solution

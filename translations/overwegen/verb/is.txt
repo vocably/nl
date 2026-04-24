@@ -1,1 +1,3 @@
-["íhuga","vega og meta","hugleiða"]
+íhuga
+vega og meta
+hugleiða

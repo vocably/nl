@@ -1,1 +1,3 @@
-["progressivement","graduellement","peu à peu"]
+progressivement
+graduellement
+peu à peu

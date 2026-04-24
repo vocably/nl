@@ -1,1 +1,3 @@
-["erkjenne","anerkjenne","verdsette"]
+erkjenne
+anerkjenne
+verdsette

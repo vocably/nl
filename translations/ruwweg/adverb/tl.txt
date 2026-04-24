@@ -1,1 +1,3 @@
-["halos","mga","tinatayang"]
+halos
+mga
+tinatayang

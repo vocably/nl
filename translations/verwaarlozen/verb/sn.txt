@@ -1,1 +1,3 @@
-["kuregeredza","kusachengeta","kusakoshesa"]
+kuregeredza
+kusachengeta
+kusakoshesa

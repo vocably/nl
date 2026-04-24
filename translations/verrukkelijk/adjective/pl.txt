@@ -1,1 +1,2 @@
-["pyszny","zachwycający"]
+pyszny
+zachwycający

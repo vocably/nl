@@ -1,1 +1,3 @@
-["stairsneach","cnap-starra","stairsneach-dorais"]
+stairsneach
+cnap-starra
+stairsneach-dorais

@@ -1,1 +1,4 @@
-["disposició","ordenació","aptitud","inclinació"]
+disposició
+ordenació
+aptitud
+inclinació

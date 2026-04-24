@@ -1,1 +1,2 @@
-["kwa dhihir","kwa uwazi"]
+kwa dhihir
+kwa uwazi

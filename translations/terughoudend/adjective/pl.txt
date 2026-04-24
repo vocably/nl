@@ -1,1 +1,3 @@
-["powściągliwy","nieśmiały","ostrożny"]
+powściągliwy
+nieśmiały
+ostrożny

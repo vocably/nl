@@ -1,1 +1,3 @@
-["asil","pungkasan","wetuning"]
+asil
+pungkasan
+wetuning

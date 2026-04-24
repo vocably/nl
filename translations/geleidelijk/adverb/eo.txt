@@ -1,1 +1,3 @@
-["iom post iom","grade","laŭgrade"]
+iom post iom
+grade
+laŭgrade

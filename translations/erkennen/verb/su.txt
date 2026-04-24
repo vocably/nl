@@ -1,1 +1,3 @@
-["ngaku","ngakuan","nampi"]
+ngaku
+ngakuan
+nampi

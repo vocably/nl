@@ -1,1 +1,3 @@
-["vave","i le taimi lava lena","e aunoa ma se faatuai"]
+vave
+i le taimi lava lena
+e aunoa ma se faatuai

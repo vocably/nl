@@ -1,1 +1,3 @@
-["utzugabetu","arduragabetu","alboratu"]
+utzugabetu
+arduragabetu
+alboratu

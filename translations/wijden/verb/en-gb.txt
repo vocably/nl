@@ -1,1 +1,2 @@
-["consecrate","devote"]
+consecrate
+devote

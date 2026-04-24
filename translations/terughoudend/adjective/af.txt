@@ -1,1 +1,3 @@
-["terughoudend","ingetoë","sku"]
+terughoudend
+ingetoë
+sku

@@ -1,1 +1,2 @@
-["-khulu","-balulekile"]
+-khulu
+-balulekile

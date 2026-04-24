@@ -1,1 +1,3 @@
-["erkennen","anerkennen","zugeben"]
+erkennen
+anerkennen
+zugeben

@@ -1,1 +1,3 @@
-["rezervēts","atturīgs","kautrīgs"]
+rezervēts
+atturīgs
+kautrīgs

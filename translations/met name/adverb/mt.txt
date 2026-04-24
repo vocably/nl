@@ -1,1 +1,3 @@
-["b'spe\njalment'","b'partikolarment'"]
+b'spe
+jalment'
+b'partikolarment'

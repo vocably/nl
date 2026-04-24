@@ -1,1 +1,3 @@
-["kabaca","yaklaşık olarak","tahminen"]
+kabaca
+yaklaşık olarak
+tahminen

@@ -1,1 +1,4 @@
-["trefniant","darpariaeth","tuedd","cyfuniad"]
+trefniant
+darpariaeth
+tuedd
+cyfuniad

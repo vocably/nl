@@ -1,1 +1,3 @@
-["nəticə","həll","çıxış yolu"]
+nəticə
+həll
+çıxış yolu

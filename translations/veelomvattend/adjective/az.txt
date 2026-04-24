@@ -1,1 +1,3 @@
-["əhatəli","geniş","çoxşaxəli"]
+əhatəli
+geniş
+çoxşaxəli

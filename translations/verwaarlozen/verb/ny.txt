@@ -1,1 +1,3 @@
-["kusasamala","kunyalanyaza","kuiwala"]
+kusasamala
+kunyalanyaza
+kuiwala

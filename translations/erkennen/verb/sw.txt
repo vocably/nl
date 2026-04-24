@@ -1,1 +1,3 @@
-["kukubali","kutambua","kushukuru"]
+kukubali
+kutambua
+kushukuru

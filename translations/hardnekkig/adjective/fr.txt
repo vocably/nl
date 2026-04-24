@@ -1,1 +1,2 @@
-["obstiné","tenace"]
+obstiné
+tenace

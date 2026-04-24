@@ -1,1 +1,3 @@
-["lees","pom","txais"]
+lees
+pom
+txais

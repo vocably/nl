@@ -1,1 +1,2 @@
-["insbesondere","namentlich"]
+insbesondere
+namentlich

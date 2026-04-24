@@ -1,1 +1,4 @@
-["yndieling","oanlis","oardering","beskikking"]
+yndieling
+oanlis
+oardering
+beskikking

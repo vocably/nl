@@ -1,1 +1,2 @@
-["degil","tegar"]
+degil
+tegar

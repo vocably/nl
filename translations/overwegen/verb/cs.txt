@@ -1,1 +1,3 @@
-["zvážit","uvažovat","rozmyslet si"]
+zvážit
+uvažovat
+rozmyslet si

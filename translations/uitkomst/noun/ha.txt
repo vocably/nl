@@ -1,1 +1,3 @@
-["sakamako","mafita","ƙididdiga"]
+sakamako
+mafita
+ƙididdiga

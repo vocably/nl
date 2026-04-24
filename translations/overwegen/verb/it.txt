@@ -1,1 +1,3 @@
-["considerare","riflettere","soppesare"]
+considerare
+riflettere
+soppesare

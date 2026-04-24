@@ -1,1 +1,3 @@
-["grovt","omtrent","sånn omtrent"]
+grovt
+omtrent
+sånn omtrent

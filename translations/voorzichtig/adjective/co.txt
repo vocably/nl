@@ -1,1 +1,2 @@
-["attinenti","attinente"]
+attinenti
+attinente

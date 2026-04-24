@@ -1,1 +1,3 @@
-["elhanyagol","gondatlan","elhanyagolt"]
+elhanyagol
+gondatlan
+elhanyagolt

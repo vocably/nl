@@ -1,1 +1,2 @@
-["lemu","faʻatatau"]
+lemu
+faʻatatau

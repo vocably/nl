@@ -1,1 +1,3 @@
-["mara moja","bila kuchelewa","papo hapo"]
+mara moja
+bila kuchelewa
+papo hapo

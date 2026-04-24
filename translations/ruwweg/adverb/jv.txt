@@ -1,1 +1,3 @@
-["kira-kira","kurang luwih","watara"]
+kira-kira
+kurang luwih
+watara

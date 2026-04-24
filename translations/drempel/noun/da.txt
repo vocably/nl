@@ -1,1 +1,3 @@
-["tærskel","dørtrin","grænse"]
+tærskel
+dørtrin
+grænse

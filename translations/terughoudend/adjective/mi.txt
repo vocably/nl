@@ -1,1 +1,3 @@
-["whakaaro","tūpato","āwangawanga"]
+whakaaro
+tūpato
+āwangawanga

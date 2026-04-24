@@ -1,1 +1,3 @@
-["stopniowo","powoli","sukcesywnie"]
+stopniowo
+powoli
+sukcesywnie

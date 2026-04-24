@@ -1,1 +1,2 @@
-["ngcwelisa","nikela"]
+ngcwelisa
+nikela

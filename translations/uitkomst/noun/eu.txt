@@ -1,1 +1,3 @@
-["emaitza","soluzioa","ebazpena"]
+emaitza
+soluzioa
+ebazpena

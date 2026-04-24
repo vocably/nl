@@ -1,1 +1,2 @@
-["kachasị","nke kachasị"]
+kachasị
+nke kachasị

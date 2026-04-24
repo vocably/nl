@@ -1,1 +1,3 @@
-["berbend","asteng","sînor"]
+berbend
+asteng
+sînor

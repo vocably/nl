@@ -1,1 +1,3 @@
-["lautele","tele","loloto"]
+lautele
+tele
+loloto

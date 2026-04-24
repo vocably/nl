@@ -1,1 +1,2 @@
-["impliċitament","taħt l-ilsien"]
+impliċitament
+taħt l-ilsien

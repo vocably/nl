@@ -1,1 +1,3 @@
-["cumprènsivu","vastu","largu"]
+cumprènsivu
+vastu
+largu

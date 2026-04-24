@@ -1,1 +1,2 @@
-["adamak","takdis etmek"]
+adamak
+takdis etmek

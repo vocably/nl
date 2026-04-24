@@ -1,1 +1,2 @@
-["genuch","duergegend"]
+genuch
+duergegend

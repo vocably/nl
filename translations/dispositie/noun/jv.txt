@@ -1,1 +1,4 @@
-["tata","pranatan","sipat","susunan"]
+tata
+pranatan
+sipat
+susunan

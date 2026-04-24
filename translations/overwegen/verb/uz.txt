@@ -1,1 +1,3 @@
-["o'ylamoq","ko'rib chiqmoq","mulohaza qilmoq"]
+o'ylamoq
+ko'rib chiqmoq
+mulohaza qilmoq

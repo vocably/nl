@@ -1,1 +1,2 @@
-["hearlik","ferrukkelik"]
+hearlik
+ferrukkelik

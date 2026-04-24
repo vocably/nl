@@ -1,1 +1,3 @@
-["apsvērt","izvērtēt","apdomāt"]
+apsvērt
+izvērtēt
+apdomāt

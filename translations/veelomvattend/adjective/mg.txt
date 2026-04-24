@@ -1,1 +1,3 @@
-["feno","malalaka","lalina"]
+feno
+malalaka
+lalina

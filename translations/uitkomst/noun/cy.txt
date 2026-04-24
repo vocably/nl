@@ -1,1 +1,3 @@
-["canlyniad","datrysiad","ateb"]
+canlyniad
+datrysiad
+ateb

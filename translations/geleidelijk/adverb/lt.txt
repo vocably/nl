@@ -1,1 +1,3 @@
-["palaipsniui","po truputį","pamažu"]
+palaipsniui
+po truputį
+pamažu

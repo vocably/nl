@@ -1,1 +1,2 @@
-["consagrar","dedicar"]
+consagrar
+dedicar

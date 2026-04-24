@@ -1,1 +1,3 @@
-["razmotriti","uzeti u obzir","promisliti"]
+razmotriti
+uzeti u obzir
+promisliti

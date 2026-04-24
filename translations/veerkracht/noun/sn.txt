@@ -1,1 +1,2 @@
-["kusimba","utsungiriri"]
+kusimba
+utsungiriri

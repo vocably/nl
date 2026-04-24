@@ -1,1 +1,3 @@
-["ruchwei","sa.n bytsje","likernôch"]
+ruchwei
+sa.n bytsje
+likernôch

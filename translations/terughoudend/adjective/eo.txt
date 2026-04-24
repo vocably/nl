@@ -1,1 +1,3 @@
-["sinĝena","rezervita","malema"]
+sinĝena
+rezervita
+malema

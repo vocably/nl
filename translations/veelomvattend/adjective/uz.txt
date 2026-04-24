@@ -1,1 +1,3 @@
-["keng qamrovli","har tomonlama","chuqur"]
+keng qamrovli
+har tomonlama
+chuqur

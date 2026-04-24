@@ -1,1 +1,4 @@
-["joylashuv","tartib","moyillik","tuzilishi"]
+joylashuv
+tartib
+moyillik
+tuzilishi

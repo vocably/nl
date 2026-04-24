@@ -1,1 +1,3 @@
-["cynnil","clust","amharod"]
+cynnil
+clust
+amharod

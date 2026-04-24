@@ -1,1 +1,4 @@
-["fandaharana","fizarana","fironana","toe-batana"]
+fandaharana
+fizarana
+fironana
+toe-batana

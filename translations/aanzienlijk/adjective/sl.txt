@@ -1,1 +1,2 @@
-["znaten","pomemben"]
+znaten
+pomemben

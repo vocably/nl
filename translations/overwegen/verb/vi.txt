@@ -1,1 +1,3 @@
-["cân nhắc","xem xét","suy nghĩ"]
+cân nhắc
+xem xét
+suy nghĩ

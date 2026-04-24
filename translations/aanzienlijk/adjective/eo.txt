@@ -1,1 +1,2 @@
-["granda","konsiderinda"]
+granda
+konsiderinda

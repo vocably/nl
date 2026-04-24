@@ -1,1 +1,3 @@
-["mandinika","mieritreritra","misaintsaina"]
+mandinika
+mieritreritra
+misaintsaina

@@ -1,1 +1,3 @@
-["diskretua","erreserbatua","uzkurra"]
+diskretua
+erreserbatua
+uzkurra

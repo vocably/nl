@@ -1,1 +1,3 @@
-["fokozatosan","lassanként","lépésről lépésre"]
+fokozatosan
+lassanként
+lépésről lépésre

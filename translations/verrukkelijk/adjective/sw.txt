@@ -1,1 +1,2 @@
-["ladha","tamu"]
+ladha
+tamu

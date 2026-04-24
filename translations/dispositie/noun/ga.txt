@@ -1,1 +1,4 @@
-["ordú","socrú","claonadh","dispeansáid"]
+ordú
+socrú
+claonadh
+dispeansáid

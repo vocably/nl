@@ -1,1 +1,2 @@
-["kwado","gosi eziokwu"]
+kwado
+gosi eziokwu

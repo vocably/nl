@@ -1,1 +1,3 @@
-["zvažovať","uvažovať","brať do úvahy"]
+zvažovať
+uvažovať
+brať do úvahy

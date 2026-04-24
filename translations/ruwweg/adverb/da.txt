@@ -1,1 +1,3 @@
-["groft","omtrent","cirka"]
+groft
+omtrent
+cirka

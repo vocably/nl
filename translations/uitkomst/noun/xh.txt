@@ -1,1 +1,3 @@
-["isiphumo","isisombululo","ixabiso"]
+isiphumo
+isisombululo
+ixabiso

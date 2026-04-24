@@ -1,1 +1,3 @@
-["átfogó","széleskörű","sokoldalú"]
+átfogó
+széleskörű
+sokoldalú

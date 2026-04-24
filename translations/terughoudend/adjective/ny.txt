@@ -1,1 +1,3 @@
-["wope","osachita changu","wochenjera"]
+wope
+osachita changu
+wochenjera

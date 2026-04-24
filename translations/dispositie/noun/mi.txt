@@ -1,1 +1,4 @@
-["whakaritenga","tikanga","āhua","pūnaha"]
+whakaritenga
+tikanga
+āhua
+pūnaha

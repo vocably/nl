@@ -1,1 +1,3 @@
-["tədricən","get-gedə","asta-asta"]
+tədricən
+get-gedə
+asta-asta

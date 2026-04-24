@@ -1,1 +1,3 @@
-["riżultat","soluzzjoni","eżitu"]
+riżultat
+soluzzjoni
+eżitu

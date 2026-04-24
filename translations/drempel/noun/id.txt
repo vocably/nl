@@ -1,1 +1,3 @@
-["ambang","rintangan","batas"]
+ambang
+rintangan
+batas

@@ -1,1 +1,2 @@
-["rezilyans","elastisite"]
+rezilyans
+elastisite

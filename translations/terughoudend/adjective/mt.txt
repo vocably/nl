@@ -1,1 +1,3 @@
-["riservat","mistħi","eżitanti"]
+riservat
+mistħi
+eżitanti

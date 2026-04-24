@@ -1,1 +1,3 @@
-["malglate","proksimume","ĉirkaŭ"]
+malglate
+proksimume
+ĉirkaŭ

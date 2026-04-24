@@ -1,1 +1,3 @@
-["vokatra","vahaolana","valiny"]
+vokatra
+vahaolana
+valiny

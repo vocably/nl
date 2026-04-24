@@ -1,1 +1,3 @@
-["limitu","għatba","xifer"]
+limitu
+għatba
+xifer

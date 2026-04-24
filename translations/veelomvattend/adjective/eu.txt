@@ -1,1 +1,3 @@
-["zabala","sakona","integrala"]
+zabala
+sakona
+integrala

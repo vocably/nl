@@ -1,1 +1,4 @@
-["düzgün","ygtyýar","ukyp","gurluş"]
+düzgün
+ygtyýar
+ukyp
+gurluş

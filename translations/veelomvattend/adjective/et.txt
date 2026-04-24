@@ -1,1 +1,3 @@
-["põhjalik","ulatuslik","kõikehõlmav"]
+põhjalik
+ulatuslik
+kõikehõlmav

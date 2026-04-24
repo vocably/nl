@@ -1,1 +1,3 @@
-["baaxad weyn","dhameystiran","faahfaahsan"]
+baaxad weyn
+dhameystiran
+faahfaahsan

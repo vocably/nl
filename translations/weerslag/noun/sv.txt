@@ -1,1 +1,2 @@
-["återslag","rekyl"]
+återslag
+rekyl

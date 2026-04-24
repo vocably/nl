@@ -1,1 +1,2 @@
-["leaisteachas","seasmhacht"]
+leaisteachas
+seasmhacht

@@ -1,1 +1,3 @@
-["trothwy","rhwystr","terfyn"]
+trothwy
+rhwystr
+terfyn

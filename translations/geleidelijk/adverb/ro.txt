@@ -1,1 +1,3 @@
-["treptat","gradual","încetul cu încetul"]
+treptat
+gradual
+încetul cu încetul

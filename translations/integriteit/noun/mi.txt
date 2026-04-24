@@ -1,1 +1,2 @@
-["tapatahi","pono"]
+tapatahi
+pono

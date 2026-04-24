@@ -1,1 +1,3 @@
-["sanadyan","sanadyan mangkono","sanadyan kaya mangkono"]
+sanadyan
+sanadyan mangkono
+sanadyan kaya mangkono

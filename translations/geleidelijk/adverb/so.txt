@@ -1,1 +1,3 @@
-["tartiib","aayar","tallaabo tallaabo"]
+tartiib
+aayar
+tallaabo tallaabo

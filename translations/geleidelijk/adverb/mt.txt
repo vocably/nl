@@ -1,1 +1,3 @@
-["bilmodd","gradwalment","ftit ftit"]
+bilmodd
+gradwalment
+ftit ftit

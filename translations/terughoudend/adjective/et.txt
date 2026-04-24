@@ -1,1 +1,3 @@
-["tagasihoidlik","reserveeritud","ettevaatlik"]
+tagasihoidlik
+reserveeritud
+ettevaatlik

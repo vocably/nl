@@ -1,1 +1,3 @@
-["dûgela","yekser","tûşî"]
+dûgela
+yekser
+tûşî

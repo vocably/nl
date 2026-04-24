@@ -1,1 +1,2 @@
-["trdovraten","vztrajen"]
+trdovraten
+vztrajen
