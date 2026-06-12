@@ -1,0 +1,3 @@
+forbidden
+prohibited
+not allowed

@@ -1,0 +1,3 @@
+cserél
+felcserél
+kicserél

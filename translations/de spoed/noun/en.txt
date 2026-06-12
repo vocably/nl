@@ -1,0 +1,3 @@
+urgency
+emergency
+emergency room

@@ -1,0 +1,5 @@
+gaan
+loop
+ry
+beweeg
+pas

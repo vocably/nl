@@ -1,0 +1,3 @@
+step
+walk
+move

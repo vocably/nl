@@ -1,0 +1,3 @@
+indoor
+internal
+built-in

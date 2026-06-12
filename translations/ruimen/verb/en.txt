@@ -1,0 +1,5 @@
+clear
+remove
+vacate
+clean
+tidy up

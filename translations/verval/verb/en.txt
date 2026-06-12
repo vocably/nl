@@ -1,0 +1,3 @@
+decay
+expiration
+lapse

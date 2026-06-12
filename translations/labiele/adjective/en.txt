@@ -1,0 +1,3 @@
+unstable
+fragile
+precarious

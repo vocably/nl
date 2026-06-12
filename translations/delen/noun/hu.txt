@@ -1,0 +1,3 @@
+részek
+darabok
+szegmensek
