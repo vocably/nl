@@ -1,0 +1,3 @@
+duo
+pair
+double act

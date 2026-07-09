@@ -1,0 +1,3 @@
+figyelmeztet
+óv
+int

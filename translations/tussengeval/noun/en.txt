@@ -1,0 +1,3 @@
+intermediate case
+borderline case
+hybrid

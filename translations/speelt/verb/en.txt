@@ -1,0 +1,5 @@
+plays
+is playing
+acts
+performs
+is on

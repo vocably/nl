@@ -1,0 +1,3 @@
+play draughts
+dam
+play checkers

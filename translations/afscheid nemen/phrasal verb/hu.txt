@@ -1,0 +1,3 @@
+búcsút vesz
+elbúcsúzik
+búcsút int

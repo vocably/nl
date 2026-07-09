@@ -1,0 +1,3 @@
+számít
+különbséget tesz
+hibádzik

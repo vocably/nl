@@ -1,0 +1,3 @@
+poles
+stakes
+posts
