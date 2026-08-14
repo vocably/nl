@@ -1,0 +1,4 @@
+point
+show
+indicate
+rule

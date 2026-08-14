@@ -1,0 +1,4 @@
+felállít
+létrehoz
+felver
+feltesz

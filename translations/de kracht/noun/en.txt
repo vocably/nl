@@ -1,0 +1,4 @@
+power
+strength
+force
+energy

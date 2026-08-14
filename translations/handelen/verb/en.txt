@@ -1,0 +1,4 @@
+act
+deal
+trade
+negotiate

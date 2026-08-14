@@ -1,0 +1,4 @@
+visszamegy
+visszatér
+csökken
+visszakerül

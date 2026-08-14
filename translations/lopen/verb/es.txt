@@ -1,0 +1,3 @@
+caminar
+andar
+funcionar

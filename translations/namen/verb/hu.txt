@@ -1,0 +1,4 @@
+vettek
+elvettek
+fogtak
+elfogtak

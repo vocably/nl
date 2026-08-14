@@ -1,0 +1,4 @@
+folyamatban levő
+futó
+álló
+folyó
