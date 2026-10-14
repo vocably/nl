@@ -1,0 +1,5 @@
+stand
+be
+suit
+be located
+be situated

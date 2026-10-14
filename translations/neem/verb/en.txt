@@ -1,0 +1,5 @@
+take
+have
+assume
+catch
+choose

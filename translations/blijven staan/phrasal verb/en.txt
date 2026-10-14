@@ -1,0 +1,3 @@
+stop
+remain standing
+stand still

@@ -1,0 +1,2 @@
+outpatients
+ambulatory patients

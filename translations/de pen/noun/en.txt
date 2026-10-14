@@ -1,0 +1,7 @@
+pen
+ballpoint pen
+fountain pen
+quill
+stylus
+pencil
+writing implement

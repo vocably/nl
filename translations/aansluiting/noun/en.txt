@@ -1,0 +1,5 @@
+connection
+junction
+link
+fitting
+access

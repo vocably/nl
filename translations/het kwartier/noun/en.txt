@@ -1,0 +1,3 @@
+quarter
+neighborhood
+lodgings

@@ -1,0 +1,3 @@
+die Kurve
+die Biegung
+der Knick

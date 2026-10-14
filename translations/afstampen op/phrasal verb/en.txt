@@ -1,0 +1,3 @@
+stomp on
+trample on
+reject forcefully

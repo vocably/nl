@@ -1,0 +1,4 @@
+asks
+puts
+assumes
+draws up

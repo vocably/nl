@@ -1,0 +1,4 @@
+corridor
+aisle
+gait
+course
